@@ -1,11 +1,11 @@
 {
-  "issue_date": "2026-07-14",
+  "issue_date": "2026-07-16",
   "year_month": "2026-07",
-  "period": "2026-06-15 ~ 2026-07-14",
-  "monthly_summary": "外科循证减负、AI重塑底层研发、防治向全生命周期与难治靶点纵深成为核心趋势，标志临床回归理性优化，同时人工智能与合成生物学正加速从自主科研到创新药及细胞治疗的颠覆性突破。",
-  "total_papers": 460,
-  "total_top_papers": 25,
-  "total_brief_mentions": 50,
+  "period": "2026-06-17 ~ 2026-07-16",
+  "monthly_summary": "医学正加速向智算赋能、微观精准与极致微创演进：外科依托多模态导航迈向精准微创，人工智能跨越至自主临床决策，底层技术驱动基因与细胞免疫治疗突破，全面重塑从宏观干预到微观重塑的诊疗新范式。",
+  "total_papers": 468,
+  "total_top_papers": 15,
+  "total_brief_mentions": 40,
   "adaptive_top_enabled": true,
   "sections": [
     {
@@ -13,12 +13,12 @@
       "section_title": "小儿外科前沿",
       "section_icon": "🔬",
       "section_index": 1,
-      "total_papers": 124,
-      "high_quality_count": 38,
-      "actual_top_count": 5,
-      "score_cutoff": 4,
-      "monthly_total": 117,
-      "section_summary": "重点：Risdiplam治疗1型脊髓性肌萎缩症患者的疗效与安全性：两部分2期FIREFISH试验的3年开放... — 本研究评估了口服药物risdiplam在1型脊髓性肌萎缩症患儿中的长期疗效与安全性。作为FIREFISH试验的3年扩展，",
+      "total_papers": 130,
+      "high_quality_count": 46,
+      "actual_top_count": 3,
+      "score_cutoff": 8,
+      "monthly_total": 136,
+      "section_summary": "重点：Risdiplam治疗1型脊髓性肌萎缩症患者的疗效与安全性：双阶段2期FIREFISH试验的3年开放... — 本研究为FIREFISH二期试验的三年开放标签扩展，评估Risdiplam治疗1型脊髓性肌萎缩症患儿的长期疗效与安全性。",
       "top_papers": [
         {
           "pmid": "42385757",
@@ -53,151 +53,68 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "Risdiplam治疗1型脊髓性肌萎缩症患者的疗效与安全性：两部分2期FIREFISH试验的3年开放标签扩展研究",
-          "abstract_cn": "本研究评估了口服药物risdiplam在1型脊髓性肌萎缩症患儿中的长期疗效与安全性。作为FIREFISH试验的3年扩展，共52名患儿完成了5年治疗。结果显示，5年时90%的患儿存活，80%无需永久通气，且运动功能持续改善，证实了其长期安全性和持续疗效。",
+          "title_cn": "Risdiplam治疗1型脊髓性肌萎缩症患者的疗效与安全性：双阶段2期FIREFISH试验的3年开放标签扩展研究",
+          "abstract_cn": "本研究为FIREFISH二期试验的三年开放标签扩展，评估Risdiplam治疗1型脊髓性肌萎缩症患儿的长期疗效与安全性。结果显示，治疗五年后90%患儿存活，80%无需永久呼吸支持。该研究证实了Risdiplam在改善运动功能、提高生存率及长期安全性方面的显著疗效。",
           "topic_tags": [
             "脊髓性肌萎缩症",
+            "Risdiplam",
             "基因靶向治疗",
-            "罕见病长期随访",
-            "儿童神经肌肉疾病"
+            "罕见病长期管理"
           ],
           "commentary": {
-            "ladd": "这药物虽非手术刀，但对神经肌肉接头和运动单元发育的干预，本质上仍是对儿童生理基础的重塑。看着这些患儿从无法自主呼吸到运动功能持续改善，让我想起当年纠正先天性畸形时对解剖与生理重建的敬畏。无论治疗手段如何演进，顺应儿童生长发育规律、恢复基础生理功能永远是第一位的。",
-            "gross": "当年我结扎动脉导管时，没人相信非手术手段能改变命运，而今天小分子药物竟能让SMA 1型患儿摆脱呼吸机，这就是医学创新的奇迹！从探索剂量到5年长期随访，团队敢于将想法转化为颠覆性的临床实践，真正做到了敢为天下先。这种跨学科的突破证明，只要敢于打破常规，曾经的绝症也能迎来生机。",
-            "koop": "5年90%的生存率背后，是无数个家庭从绝望到重获希望的日日夜夜，这不仅是数据的胜利，更是生命的奇迹。当这些孩子不再依赖呼吸机，他们醒来时能真切地回应母亲的呼唤，这才是我们医疗照护的终极意义。在漫长的用药与随访中，给予家庭持续的心理支持与温度，与药物本身同等重要。",
-            "ebm": "作为一项开放标签的扩展研究，虽然5年随访数据令人振奋，但缺乏平行对照组使得我们难以完全剥离自然病程或早期干预的混杂偏倚。90%的生存率固然显著，但我们更需关注效应量以及无永久通气生存率的置信区间，以评估其真实的临床获益。未来仍需更严谨的随机对照设计或真实世界长期队列数据，来进一步夯实这一证据的临床推广价值。"
+            "ladd": "虽然这不是传统的外科手术，但SMA患儿后期的脊柱侧弯和关节挛缩处理，极度依赖神经肌肉功能的解剖与生理基础。Risdiplam从源头改善运动单位，这为我们外科处理这些继发畸形提供了前所未有的良好组织条件。解剖与生理永远是第一位的，药物重塑了患儿的生理基础，外科医生必须顺应这种新的病理生理常态。",
+            "gross": "针对SMA这种曾经的“绝症”，小分子药物能精准靶向SMN2基因剪接，这种跨学科的基因层面干预才是真正敢为天下先的创新。看到5年随访数据里这么多孩子摆脱呼吸机，就像当年看到PDA结扎成功后患儿转危为安一样令人振奋。技术创新不被骂两句不叫真创新，而用时间和长期随访数据说话，才是对创新最大的肯定。",
+            "koop": "5年的长期用药，不仅是医学数据的胜利，更是52个家庭免于生离死别的奇迹。我们在关注运动评分提升的同时，绝不能忘记这些孩子在每一次喂药、每一次呼吸训练中与父母建立的深厚羁绊。医生最容易忘记的，是疾病被控制后，孩子如何带着尊严去融入社会，这才是我们长期照护的终极目标。",
+            "ebm": "作为一项多中心2期试验的开放标签扩展，其5年随访的生存率和无永久通气率数据极具临床价值，但缺乏随机对照组仍是证据等级的局限。不过，对于1型SMA这种致死性罕见病，90%的生存率已经具备压倒性的临床意义，无需拘泥于传统的p值计算。这为真实世界研究和长期队列随访提供了优秀的范本，直接改变了临床指南的推荐级别。"
           }
         },
         {
-          "pmid": "42385756",
-          "doi": "10.1016/S2352-4642(26)00134-3",
-          "title": "A national programme of bivalent prefusion F vaccination in pregnancy and protection against respiratory syncytial virus hospitalisation in infants until age 6 months in the UK: a multicentre, prospective, test-negative, case-control study.",
-          "journal": "The Lancet. Child & adolescent health",
-          "journal_abbrev": "Lancet Child Adolesc Health",
-          "publish_date": "2026-07-01",
-          "authors": [
-            "O'Hagan S",
-            "Cunningham S",
-            "Drysdale S",
-            "Groves H",
-            "Hunt S",
-            "Iskander D",
-            "Liu X",
-            "Lyttle M",
-            "Mpamhanga C",
-            "Waterfield T",
-            "Williams T",
-            "Marlow R",
-            "Roland D"
-          ],
-          "abstract": "[BACKGROUND] In late summer, 2024, the UK introduced the maternal bivalent respiratory syncytial virus (RSV) prefusion F (RSVpreF) vaccine for all pregnant individuals at a gestation of 28 weeks or more. After an initial catch-up phase, the maternal RSVpreF programme transitioned to year-round delivery, and in late summer, 2025, nirsevimab replaced palivizumab for infants at high risk of severe RSV disease. We aimed to estimate the protection provided by maternal RSVpreF against hospital admission with RSV in infants up to the age of 6 months, and to assess the overall performance of the UK RSV prevention programme once this had entered a steady state.\n[METHODS] We conducted a national, multicentre, prospective, test-negative, case-control study at 37 BronchStop hospital sites in the UK. Patient and public involvement from a group of parents informed study protocol design. Included patients were prospectively enrolled infants aged 6 months or younger at the time of hospital admission with acute lower respiratory tract infection (ALRI) and tested for RSV. Test-positive infants (case patients) were defined as those admitted with a positive RSV test. Test-negative infants (control patients) were defined as those who tested negative for RSV. Infants were followed up until hospital discharge or death while an inpatient. The primary outcome was infant hospital admission with RSV-associated ALRI in infants born at a gestation of 28 weeks or more who did not receive nirsevimab postnatally. Primary vaccine effectiveness was calculated with the use of a conditional logistic regression model adjusted by site, calendar month of attendance, gestational age at birth, socioeconomic status, age at admission, and breastfeeding status. This study was registered with ClinicalTrials.gov, NCT04959734.\n[FINDINGS] Between Sept 2, 2025, and Jan 31, 2026, 1356 infants were admitted to participating sites and screened for eligibility, 694 of whom were included in the primary analysis (429 RSV-positive infants and 265 RSV-negative infants). Median age was 2·2 months (IQR 1·3-3·9) for RSV-positive infants and 1·7 months (1·0-3·3) for RSV-negative infants. 394 (57%) of 694 infants were male and 300 (43%) were female. Ethnicity data were available for 693 mothers, of whom 538 (78%) identified as being of White ethnicity. The mothers of 161 (38%) RSV-positive infants and 175 (66%) RSV-negative infants had received the RSVpreF vaccine before delivery. The adjusted vaccine effectiveness of maternal RSVpreF vaccination for preventing infant hospital admission was 61% (95% CI 38-75) for infants aged up to 6 months, and 76% (54-87) for infants aged up to 3 months. The overall effectiveness of the UK RSV prevention programme was 61% (39-75) through to age 6 months.\n[INTERPRETATION] In the real-world setting of the UK's maternal vaccination programme, RSVpreF vaccination was effective up until the age of 6 months in reducing the risk of hospital admission with RSV-associated ALRI, as was the UK's infant RSV prevention programme. These data could help decision makers to evaluate whether RSVpreF or an anti-RSV infant monoclonal antibody best serves the needs of their infant population.\n[FUNDING] National Institute for Health and Care Research, The Wellcome Trust, Imperial College London, the Public Health Agency Northern Ireland, the Belfast Health and Social Care Trust Charitable Trust Funds, the Edinburgh Children's Hospital Charity, and the Respiratory Syncytial Virus Consortium in Europe.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "英国孕妇接种双价预融合F蛋白疫苗的国家项目及对6月龄内婴儿呼吸道合胞病毒住院的保护作用：一项多中心、前瞻性、测试阴性病例对照研究",
-          "abstract_cn": "本研究评估了英国孕妇接种RSVpreF疫苗的国家项目效果。通过多中心前瞻性测试阴性病例对照设计，纳入694例因急性下呼吸道感染的6月龄内婴儿。结果显示，母亲接种疫苗对预防婴儿RSV住院的整体有效性为61%，3月龄内达76%。这证实了该国家预防项目在真实世界中的有效性，为决策提供了重要依据。",
-          "topic_tags": [
-            "呼吸道合胞病毒",
-            "孕妇疫苗接种",
-            "测试阴性病例对照研究",
-            "真实世界研究"
-          ],
-          "commentary": {
-            "ladd": "保护新生儿免受呼吸道侵袭，就像我们在手术台上小心翼翼地分离粘连一样，基础在于对儿童脆弱生理的深刻理解。这项全国性的免疫计划，本质上是为最脆弱的群体建立起一道生理防线。看到医学界在预防端如此扎实地守护孩子们的生命起点，这让我想起当年在波士顿确立小儿外科基本原则的初心。",
-            "gross": "将双价RSV预融合F蛋白疫苗推向全国孕妇群体，这种跨学科的免疫学创新与公共卫生政策的结合，正是医学不断突破边界的体现。当年我结扎动脉导管时面对的是技术空白，而今天你们面对的是将前沿疫苗转化为国家级保护屏障的勇气。敢于在真实世界中验证并推行这种预防策略，这才是真正改变游戏规则的魄力。",
-            "koop": "RSV感染让多少婴儿在病房里憋喘，让多少母亲在门外彻夜难眠，这项研究最打动我的，是它通过保护母亲来护佑了那些还不会说话的小生命。疫苗不仅是一针药剂，更是母亲隔着肚皮给孩子的一个温暖拥抱，让他们在生命最初几个月免受呼吸之苦。医学的终极温度，就体现在这种让家庭免于恐惧的默默守护中。",
-            "ebm": "采用多中心前瞻性测试阴性病例对照设计来评估真实世界疫苗有效性，方法学上非常严谨，有效控制了就诊偏倚。694例样本量在国家级项目中具备代表性，61%的整体保护效力及置信区间计算也经得起推敲。不过，考虑到RSV季节性和不同毒株的变异，未来还需关注抗体衰减曲线及长期随访数据，以确保证据的稳健性。"
-          }
-        },
-        {
-          "pmid": "42392255",
-          "doi": "10.1016/j.jpedsurg.2026.163284",
-          "title": "National Benchmarks for Penetrating Head Injury in U.S. Children and Adolescents: Mechanism, Intent, and Disparities in Mortality.",
+          "pmid": "42442462",
+          "doi": "10.1016/j.jpedsurg.2026.163290",
+          "title": "Characteristics and environmental susceptibility of first-pass meconium microbiota in neonates with congenital intestinal atresia.",
           "journal": "Journal of pediatric surgery",
           "journal_abbrev": "J Pediatr Surg",
-          "publish_date": "2026-07-02",
+          "publish_date": "2026-07-13",
           "authors": [
-            "Mina A",
-            "Chen J",
-            "Wolf K",
-            "Vogel A",
-            "Pryor H"
+            "Fukada A",
+            "Suda K",
+            "Watayo H",
+            "Motooka D",
+            "Shinoda T",
+            "Tohya M",
+            "Ishiyama A",
+            "Nishimura Y",
+            "Fujiwara K",
+            "Ochi T",
+            "Goto H",
+            "Nikai K",
+            "Ishii J",
+            "Yamamoto Y",
+            "Okazaki T",
+            "Nakamura S",
+            "Kirikae T",
+            "Yamataka A",
+            "Watanabe S",
+            "Miyano G"
           ],
-          "abstract": "[PURPOSE] To establish contemporary national benchmarks for penetrating head injury (PPHI) in children and adolescents by characterizing its epidemiology, age, race/ethnicity, mechanism, and intent, and to identify independent predictors of mortality, in order to inform age- and mechanism-specific prevention.\n[METHODS] Retrospective cohort study of children and adolescents aged 1-17 years with PPHI in the American College of Surgeons Trauma Quality Improvement Program (TQIP) database, 2019-2023. PPHI comprised firearm, cut/pierce, and animal-bite mechanisms with documented head-region involvement. Patients were stratified into four developmental age groups (1-4, 5-9, 10-14, 15-17 years). Outcomes included overall (emergency department and in-hospital) mortality, neurosurgical intervention, length of stay, and hospital-acquired infection (HAI). Animal bites were summarized as a separate descriptive subgroup; the multivariable mortality model was restricted to firearm and cut/pierce mechanisms, with a sensitivity analysis varying the head-injury severity threshold.\n[RESULTS] Among 9,046 children and adolescents with PPHI, 73.8% were male and 49.9% were aged 15-17 years. Mechanism and intent shifted markedly with age: animal bites predominated among children aged 1-4 years (61.3% of that group), whereas firearms accounted for 88.2% of injuries in adolescents aged 15-17 years. Injuries were predominantly unintentional before age 10 (80.9%); self-inflicted injury peaked at ages 10-14 (21.1%); and assault predominated at ages 15-17 (63.4%). Overall mortality was 25.4% and rose from 12.2% in children aged 1-9 years to 31.3% in those aged 10-17 years. Firearms caused 6,199 injuries (68.5%) and 97.7% of all deaths. Independent predictors of mortality included firearm mechanism, self-inflicted intent, non-Hispanic Black race, lower Glasgow Coma Scale score, higher Injury Severity Score, and direct (non-transferred) arrival.\n[CONCLUSION] PPHI in U.S. children and adolescents comprises three distinct epidemiologic phenotypes, animal bites in young children, self-inflicted firearm injury peaking in early adolescence, and firearm assault concentrated among older, predominantly non-Hispanic Black adolescents. Firearms drive nearly all mortality. These national benchmarks support tailored, phenotype-specific prevention rather than a single undifferentiated strategy.",
+          "abstract": "[PURPOSE] Whether congenital gastrointestinal atresia (atresia) specifically affects the meconium microbiota because of an altered intrauterine intestinal environment remains unclear. Therefore, we aimed to characterize the meconium microbiota of neonates with congenital anomalies, specifically atresia.\n[METHODS] Meconium samples were collected from healthy term neonates (control), neonates with congenital malformations other than atresia (other anomalies), and those with atresia who were admitted to the growing care unit or obstetrics ward. Alpha-diversity (Shannon index and observed features) and beta-diversity (principal coordinate analysis) were assessed through 16S rRNA gene sequencing. The microbial composition was examined at the phylum and genus levels, and stratified by delivery mode and mother's antibiotic exposure.\n[RESULTS] The study included 20 controls, 37 neonates with other anomalies, and 11 with atresia, including esophageal, duodenal, small intestinal, and colonic atresia. Alpha-diversity was the lowest in atresia, particularly with cesarean delivery or maternal antibiotic exposure (p<0.05). Beta-diversity analysis demonstrated that the distribution of microbial profiles significantly differed between the control and atresia groups (p<0.05). At the phylum level, atresia had a high proportion of Bacteroidetes, whereas Firmicutes and Proteobacteria were reduced. Several genera that were abundant in the control were markedly reduced in atresia (p<0.001 vs. control; p<0.01, among 3 groups), with higher Pseudomonas but lower Staphylococcus (p<0.05, vs. control and other anomalies) and Escherichia (p<0.05 vs. other anomalies).\n[CONCLUSION] Congenital gastrointestinal atresia demonstrated unique meconium microbiota profiles compared with those of healthy neonates and other congenital anomalies. This suggests differences in the intraintestinal environment during the fetal period.\n[LEVEL OF EVIDENCE] Ⅱ.",
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "美国儿童和青少年穿透性颅脑损伤的国家基准：机制、意图及死亡率差异",
-          "abstract_cn": "本研究基于TQIP数据库分析9046例儿童穿透性颅脑损伤。结果显示，损伤机制随年龄变化：幼儿多为动物咬伤，青少年多为枪支伤害。总死亡率达25.4%，枪支致伤占死亡的97.7%。独立死亡预测因素包括枪支致伤、自残意图及特定种族等。研究揭示三种流行病学表型，呼吁制定针对性预防策略。",
+          "title_cn": "先天性肠闭锁新生儿首排胎粪微生物群的特征及环境易感性分析",
+          "abstract_cn": "本研究探讨先天性肠闭锁对新生儿胎粪微生物群的影响。通过16S rRNA测序对比健康儿、其他畸形及肠闭锁患儿的胎粪样本。结果显示，闭锁组微生物α多样性最低，菌群分布与对照组差异显著，拟杆菌门比例升高而特定有益菌减少。这表明闭锁患儿具有独特的胎粪微生态特征，提示其胎儿期肠内环境存在显著异常。",
           "topic_tags": [
-            "穿透性颅脑损伤",
-            "儿童创伤",
-            "流行病学",
-            "枪支暴力",
-            "健康差异"
+            "先天性肠闭锁",
+            "胎粪微生物群",
+            "16S rRNA测序",
+            "新生儿肠道微生态",
+            "宫内环境"
           ],
           "commentary": {
-            "ladd": "虽然这是一篇流行病学研究，但它深刻揭示了儿童在不同发育阶段颅脑解剖与生理脆弱性的差异。1到4岁幼儿的动物咬伤与青少年的枪弹创，在组织损伤机制和颅内解剖破坏上截然不同。这提醒我们在临床救治时，必须将年龄相关的解剖学基础置于首位，不能将成人的创伤救治原则简单套用于儿童。",
-            "gross": "面对枪支暴力这一严峻的社会问题，单纯依靠传统的外科修补已经不够，我们需要跨学科的预防与干预创新。这项研究明确了不同年龄段的损伤表型，这为我们开发针对特定机制的创伤急救新技术和早期神经保护策略提供了明确靶点。外科医生不仅要敢于在手术台上创新，更要敢于推动公共卫生政策的变革。",
-            "koop": "数据背后是一个个破碎的家庭，尤其是那些因枪支暴力和自残而失去生命的青少年，令人痛心。我们在关注死亡率和手术干预的同时，绝不能忽视患儿及其家庭在创伤后的长期心理康复与社会支持。外科医生必须充满人文关怀，在救治身体的同时，也要倾听他们内心的呼救，给予他们重建生活的温度与力量。",
-            "ebm": "本研究依托TQIP数据库，近万例的大样本量为建立国家基准提供了坚实的流行病学证据。多变量模型合理排除了动物咬伤对死亡率分析的干扰，并进行了敏感性分析，统计设计较为严谨。然而，基于回顾性数据库的种族差异分析仍需警惕未测量混杂因素的影响，未来需要前瞻性队列研究来验证这些预测因素的因果关系。"
-          }
-        },
-        {
-          "pmid": "42425114",
-          "doi": "10.1016/S0140-6736(26)00856-1",
-          "title": "Children in all policies: lessons from a global collaboration to promote the health and wellbeing of children and future generations.",
-          "journal": "Lancet (London, England)",
-          "journal_abbrev": "Lancet",
-          "publish_date": "2026-07-11",
-          "authors": [
-            "Dalglish S",
-            "Sakyi K",
-            "Prost A",
-            "Amin S",
-            "Sardesi A",
-            "Mudaly A",
-            "Bhan G",
-            "Devakumar D",
-            "Diouf S",
-            "Doherty T",
-            "George A",
-            "Green F",
-            "Howe S",
-            "Jennings B",
-            "Khandelwal V",
-            "Kinney M",
-            "Mercer R",
-            "Ravindranath D",
-            "Saville N",
-            "Pokhrel B",
-            "Taddei F",
-            "Tomlinson M",
-            "Verghese N",
-            "Akofio-Sowah L",
-            "Shiu R",
-            "Banerjee A",
-            "Fogstad H",
-            "Costello A"
-          ],
-          "abstract": "Currently children's needs, perspectives, and rights are not adequately included in public policies, with negative consequences for the health and wellbeing of children and future generations. The 2020 WHO-UNICEF-Lancet Commission reviewed threats to children's health and concluded that children's needs and voices should be centred in all policies for a sustainable future. Since 2021, Children in All Policies 2030, a global collaboration of policy makers, scientists, and advocates, has implemented the Commission's recommendations by fostering new approaches to participatory, intersectoral policy making across diverse countries. Efforts to implement the Commission's recommendations encountered challenges including flawed assumptions in prevailing policy-making models, failure to fulfil children's right to participate, and an ongoing scarcity of intersectoral policy integration. Eight lessons on what works for improving policy making and implementation emerged: use creative means to involve children, patiently assemble coalitions, prepare to seize political opportunities, harmonise global data to bridge UN partnerships, create national political and technical platforms, use media to change cultural perceptions, use strategic framing to overcome sectoral barriers, and embrace joint learning. Harnessing people's consideration and concern for children and future generations and engaging children's voices represents a powerful political opportunity to reach current development goals and ensure a healthier, more sustainable future.",
-          "pubtypes": [
-            "Journal Article",
-            "Review"
-          ],
-          "title_cn": "儿童融入所有政策：促进儿童及后代健康与福祉的全球合作经验",
-          "abstract_cn": "当前公共政策未充分纳入儿童需求。基于WHO-UNICEF-柳叶刀委员会建议，“儿童融入所有政策2030”全球合作项目推动了跨部门参与式政策制定。本文总结了实施挑战，并提出八条改善政策制定的经验，包括创新儿童参与方式、建立联盟等。强调倾听儿童声音是实现可持续发展目标的关键。",
-          "topic_tags": [
-            "儿童健康政策",
-            "全球卫生合作",
-            "跨部门政策整合",
-            "儿童权益"
-          ],
-          "commentary": {
-            "ladd": "这文章探讨的政策框架，倒让我想起我们当年在波士顿儿童医院死磕胆道闭锁解剖结构的年代。无论是做手术还是定政策，底层的基础结构永远是第一位的，地基打不牢，上面再花哨也是白费。把儿童权益作为所有公共政策的“解剖学基础”来夯实，这才是真正经得起时间考验的经典思路。",
-            "gross": "1938年我做第一例动脉导管结扎时，所有人都觉得跨学科搞政策是痴人说梦，但技术创新不被骂两句，不叫真创新！这篇文章提出的“儿童融入所有政策”就是打破部门壁垒的绝佳创新，把政治、媒体和科学跨界融合在一起。敢把儿童的声音直接引入政策制定的核心，这种敢为天下先的魄力，正是推动医学和社会进步最需要的引擎。",
-            "koop": "外科医生最容易忘记的，是孩子在麻醉醒来那一刻喊的不是切口疼，而是“妈妈在哪”，而这篇文章终于把目光投向了孩子真正的声音。将儿童的需求和视角纳入所有公共政策，不仅仅是冷冰冰的条文，更是对每一个幼小生命最温暖的长期承诺。当我们真正俯下身倾听他们的诉求时，我们治愈的就不再只是疾病，而是他们整个未来的福祉。",
-            "ebm": "这篇柳叶刀的文章总结了全球多国跨部门政策实施的经验，虽然提出了八条策略，但缺乏对政策干预效果的定量评估和严谨的对照组设计。作为公共卫生政策研究，我们需要明确这些“经验教训”的证据等级，以及在不同社会经济背景下的可推广性。希望未来的研究能引入更严格的混合方法研究设计，用扎实的效应量来证明这些政策框架对儿童健康指标的实际改善。"
+            "ladd": "这研究思路倒让我想起当年在波士顿儿童医院研究肠闭锁解剖的年代，无论技术怎么变，理解局部解剖和生理环境的改变永远是第一位的。肠闭锁导致的宫内肠腔梗阻和扩张，必然会引起肠道微环境的物理和化学改变，这项研究从微生态角度印证了这种解剖异常带来的深远生理影响。只有深刻理解这种先天结构异常对局部环境的根本性重塑，我们才能为后续的肠道重建手术奠定坚实的生理学基础。",
+            "gross": "把分子生物学的16S rRNA测序引入到传统的小儿外科解剖疾病研究中，这种跨学科的探索精神非常值得赞赏。当年我做PDA结扎时也是打破了常规，现在你们用微生态视角来重新审视肠闭锁，说明我们不再仅仅满足于把肠子接通，而是开始关注肠道功能的微观重建。只要敢于把新想法变成临床证据，哪怕样本量不大，这种探索微环境易感性的创新思路，终将指引我们走向更精准的术后微生态干预。",
+            "koop": "我们外科医生往往只盯着手术台上的吻合口，却容易忽略这些孩子在漫长岁月中肠道微生态失衡可能带来的长期健康隐患。这项研究提醒我们，肠闭锁患儿从出生那一刻起，其肠道环境就已经处于脆弱状态，这直接关系到他们术后的营养吸收和免疫发育。作为医者，我们不仅要治愈解剖上的畸形，更要关注这些微小菌群背后所承载的患儿长期生活质量和整体健康福祉。",
+            "ebm": "作为一项II级证据的观察性研究，闭锁组仅有11例样本，虽然p值显著，但如此小的样本量必须警惕假阳性风险，建议后续补充效应量和置信区间的详细报告。此外，研究按分娩方式和母亲抗生素暴露进行了分层，这在方法学上是个亮点，有效控制了重要的混杂因素。未来需要开展多中心、大样本的前瞻性队列研究，以明确这种微生态特征改变对术后并发症的实际预测价值。"
           }
         },
         {
@@ -222,82 +139,70 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "复杂先天性外科疾病儿童向成年期过渡的医疗护理转换",
-          "abstract_cn": "随着新生儿救治进步，越来越多先天性外科疾病患儿存活至成年，但向成人医疗过渡的护理（TOC）路径尚不明确。本研究调查了美国小儿外科对短肠综合征等5种疾病的TOC现状。结果显示仅8.3%项目有正式TOC政策，27.8%有针对至少一种疾病的TOC项目，凸显了建立结构化TOC路径及加强儿成医疗协调的迫切需求。",
+          "title_cn": "复杂先天性外科疾病患儿向成年期过渡的护理",
+          "abstract_cn": "随着新生儿救治进步，大量先天性外科疾病患儿存活至成年，但向成人医疗过渡的护理（TOC）路径尚不明确。本研究调查了全美小儿外科项目对短肠综合征等五种疾病的TOC现状。结果显示仅8.3%有正式TOC政策，27.8%开展了特定疾病的TOC项目，凸显了建立结构化过渡路径及加强儿成医疗协调的迫切需求。",
           "topic_tags": [
-            "医疗过渡",
+            "过渡护理",
             "先天性外科疾病",
-            "医疗政策",
+            "医疗体系衔接",
             "长期随访"
           ],
           "commentary": {
-            "ladd": "这文章探讨的医疗过渡，本质上是对儿童与成人解剖生理差异的延续性认知。我们在波士顿做手术时，最看重的就是孩子长大成人后，当年修补的肠道或食管能否承受成人的代谢负荷。解剖结构的改变是终生的，缺乏过渡的护理就像没看清胆管解剖就盲目结扎一样危险。我们必须把对患儿生理基础的尊重，延伸到他们成年后的每一天的照护中。",
-            "gross": "1938年我做第一例动脉导管结扎时，所有人都不看好，技术创新不被骂两句不叫真创新。现在这帮年轻医生搞“医疗过渡”体系也是一样，打破儿外科和成外科的壁垒需要极大的魄力。我们不能只满足于把孩子从手术台上救下来，更要敢于设计全新的跨学科随访模式。把想法变成制度，让那些带着复杂造瘘或短肠的孩子顺利步入社会，这才是真正的外科创新。",
-            "koop": "外科医生最容易忘记的，是孩子长大成人后面对陌生医疗体系时的恐惧与无助。这篇调查揭示的不仅是制度的缺失，更是我们在患儿离开父母庇护、独自面对成人世界时的人文关怀断层。真正的治愈不仅是手术成功，更是确保他们在18岁之后依然能感受到医疗的温度。我们需要在过渡期给予他们心理支持，让他们知道无论长多大，医生依然在乎他们的生活质量。",
-            "ebm": "这项基于172份问卷的横断面调查，回收率45.9%，虽然样本量尚可，但自填问卷的回忆偏倚和选择偏倚不容忽视。p=0.48说明独立儿童医院和附属医院的TOC项目分布没有统计学差异，但各病种间TOC覆盖率的悬殊提示我们需要更精细的分层分析。作为政策倡导的依据，其证据等级足够揭示现状堪忧，但要指导具体TOC路径的临床决策，还需要多中心的前瞻性队列研究。只有验证过渡干预对患者长期预后的实际效应，我们才能真正评估这些路径的临床推广价值。"
+            "ladd": "这论文讨论的过渡护理，本质上是对儿童与成人生理差异的尊重。我们当年做先天性巨结肠或食管闭锁手术时，最关注的就是患儿解剖结构的发育成熟度。如今孩子长大了，成人的解剖和代谢环境截然不同，外科医生必须重新审视这些经典解剖学原则在成年期的适用性。",
+            "gross": "建立跨学科的过渡护理体系，就像当年我首创动脉导管未闭结扎术一样，需要打破常规的魄力。现在只有不到三成的项目有过渡计划，这说明我们小儿外科在系统性创新上还远远不够。我们不能只满足于把手术做漂亮，更要敢于设计全新的医疗模式，把患儿一生的照护蓝图真正落地。",
+            "koop": "看到只有8%的医院有正式过渡政策，我感到痛心，因为这些长大的孩子最需要的是连续的关怀。外科医生最容易忘记的，是孩子在麻醉醒来那一刻喊的不是切口疼，是“妈妈在哪”，而成年后的他们面对陌生的成人医疗系统时同样会感到无助。真正的治愈不仅是切除病灶，更是陪伴他们平稳度过人生的每一次交接。",
+            "ebm": "这项横断面调查虽然回收率不到一半，存在潜在的选择偏倚，但确实量化了过渡护理的缺失现状。独立儿童医院与附属医院在TOC项目比例上p=0.48无显著差异，说明机构类型并非决定因素。未来需要多中心的前瞻性队列研究，用具体的临床终点数据来证明结构化过渡路径对患者长期生存质量的实际效应大小。"
           }
         }
       ],
       "brief_mentions": [
         {
-          "pmid": "42398515",
-          "title": "Associations between childhood somatic conditions and psychiatric diagnoses in autistic young adults: a retrospective, population-based cohort study in Sweden.",
-          "journal_abbrev": "Lancet Child Adolesc Health",
-          "one_line": "本研究通过瑞典人群队列发现，自闭症青年儿童期的多种躯体疾病与其成年后罹患特定精神疾病的风险显著相关。"
-        },
-        {
-          "pmid": "42409040",
-          "title": "Defining neonatal encephalopathy: an international real-time Delphi consensus process.",
-          "journal_abbrev": "Lancet Child Adolesc Health",
-          "one_line": "该研究通过国际德尔菲共识流程，首次确立了新生儿脑病的标准化临床定义与诊断标准，以统一全球临床实践。"
-        },
-        {
-          "pmid": "42417848",
-          "title": "Cholangioscope-assisted endoscopic retrograde appendicitis therapy for pediatric acute uncomplicated appendicitis.",
-          "journal_abbrev": "Pediatr Surg Int",
-          "one_line": "研究证实胆道镜辅助内镜逆行阑尾炎治疗技术安全有效，可作为儿童急性单纯性阑尾炎的一种微创保阑尾新策略。"
-        },
-        {
-          "pmid": "42437407",
-          "title": "Heparin combined with urokinase therapy for the treatment of acute portal vein thrombosis in children.",
-          "journal_abbrev": "Pediatr Surg Int",
-          "one_line": "临床数据表明，肝素联合尿激酶溶栓方案能显著提高儿童急性门静脉血栓的血管再通率，且出血等并发症风险可控。"
-        },
-        {
-          "pmid": "42379347",
-          "title": "Preoperative underweight is associated with a more complicated perioperative course and impairs recovery in Hirschsprung's disease: The pivotal role of weight-for-age z-score.",
-          "journal_abbrev": "J Pediatr Surg",
-          "one_line": "研究指出术前体重过低的巨结肠患儿围手术期并发症发生率更高且术后恢复更差，强调了术前营养干预的关键作用。"
-        },
-        {
-          "pmid": "42425443",
-          "title": "NO PLACE LIKE HOME: DISCHARGE TIMING AND COSTS FOLLOWING PEDIATRIC GASTROSTOMY TUBE PLACEMENT IN THE UNITED STATES.",
-          "journal_abbrev": "J Pediatr Surg",
-          "one_line": "分析显示，儿童胃造瘘术后延迟出院显著增加医疗费用，尽早安全出院不仅节约成本，且未增加再入院率。"
-        },
-        {
-          "pmid": "42413605",
-          "title": "Illness Uncertainty in Caregivers of Children with Esophageal Atresia: Determinants and Item-Level Patterns in a Cross-Sectional Study.",
-          "journal_abbrev": "J Pediatr Surg",
-          "one_line": "研究揭示了食管闭锁患儿照顾者疾病不确定感的主要决定因素及具体表现模式，为制定针对性的心理支持策略提供依据。"
+          "pmid": "42425114",
+          "title": "Children in all policies: lessons from a global collaboration to promote the health and wellbeing of children and future generations.",
+          "journal_abbrev": "Lancet",
+          "one_line": "Lancet：Children in all policies: lessons from a global co"
         },
         {
           "pmid": "42397408",
           "title": "Failed ultrasound-guided hydrostatic reduction in pediatric intussusception: surgical-pathological characterization of failure phenotypes under a standardized protocol.",
           "journal_abbrev": "Pediatr Surg Int",
-          "one_line": "研究通过病理分析明确了儿童肠套叠水压灌肠失败的具体病理表型与危险因素，为临床早期识别和手术决策提供依据。"
+          "one_line": "Pediatr Surg Int：Failed ultrasound-guided hydrostatic reduction in "
         },
         {
-          "pmid": "42437429",
-          "title": "Ablation for paediatric solid tumours: current evidence from a scoping review.",
+          "pmid": "42385756",
+          "title": "A national programme of bivalent prefusion F vaccination in pregnancy and protection against respiratory syncytial virus hospitalisation in infants until age 6 months in the UK: a multicentre, prospective, test-negative, case-control study.",
+          "journal_abbrev": "Lancet Child Adolesc Health",
+          "one_line": "Lancet Child Adolesc Health：A national programme of bivalent prefusion F vacci"
+        },
+        {
+          "pmid": "42392255",
+          "title": "National benchmarks for penetrating head injury in U.S. children and adolescents: Mechanism, intent, and disparities in mortality.",
+          "journal_abbrev": "J Pediatr Surg",
+          "one_line": "J Pediatr Surg：National benchmarks for penetrating head injury in"
+        },
+        {
+          "pmid": "42425444",
+          "title": "Delayed Diagnosis and Surgical Intervention of Intestinal Malrotation Can Lead to Unresolved Gastrointestinal Symptoms: Findings from a Patient-reported Registry.",
+          "journal_abbrev": "J Pediatr Surg",
+          "one_line": "J Pediatr Surg：Delayed Diagnosis and Surgical Intervention of Int"
+        },
+        {
+          "pmid": "42417848",
+          "title": "Cholangioscope-assisted endoscopic retrograde appendicitis therapy for pediatric acute uncomplicated appendicitis.",
           "journal_abbrev": "Pediatr Surg Int",
-          "one_line": "该范围综述系统梳理了消融技术在儿童实体肿瘤中的应用现状，证实其在特定病例中具有微创优势，但仍需高质量证据支持。"
+          "one_line": "Pediatr Surg Int：Cholangioscope-assisted endoscopic retrograde appe"
         },
         {
-          "pmid": "42418888",
-          "title": "Urban caregiver experiences with pediatric surgical care: A qualitative study.",
-          "journal_abbrev": "Surgery",
-          "one_line": "定性研究深入探讨了城市患儿照顾者在外科诊疗过程中的真实体验与面临的障碍，为优化儿科外科护理流程提供参考。"
+          "pmid": "42385791",
+          "title": "Economic evaluation of Hirschsprung disease testing strategies for children with medically-refractory chronic constipation: A cost-effectiveness analysis.",
+          "journal_abbrev": "J Pediatr Surg",
+          "one_line": "J Pediatr Surg：Economic evaluation of Hirschsprung disease testin"
+        },
+        {
+          "pmid": "42419449",
+          "title": "Assessing Pediatric Frailty: Use of the Surgical Complication Index for Pediatric Patients (SCIPP) Score to Predict Adverse Outcomes Following Thoracic Surgery.",
+          "journal_abbrev": "J Pediatr Surg",
+          "one_line": "J Pediatr Surg：Assessing Pediatric Frailty: Use of the Surgical C"
         }
       ]
     },
@@ -307,45 +212,46 @@
       "section_icon": "💡",
       "section_index": 2,
       "total_papers": 53,
-      "high_quality_count": 36,
-      "actual_top_count": 5,
+      "high_quality_count": 35,
+      "actual_top_count": 3,
       "score_cutoff": 5,
-      "monthly_total": 55,
-      "section_summary": "重点：腹腔镜腹股沟疝修补术中补片固定能否降低复发率？一项系统评价与荟萃分析... — 腹腔镜腹股沟疝修补术中，补片固定与否的争议持续存在。本荟萃分析纳入20项RCT共1537例患者，结果显示：补片固定并未显",
+      "monthly_total": 63,
+      "section_summary": "重点：青少年腹股沟疝手术后的修复方法：一项全国性队列研究... — 本研究基于瑞典疝登记处数据，探讨15-18岁青少年腹股沟疝不同修复方法对复发再手术率的影响。共纳入1192例患者，总体再",
       "top_papers": [
         {
-          "pmid": "42295469",
-          "doi": "10.1007/s10029-026-03761-0",
-          "title": "Does mesh fixation reduce recurrence after laparoscopic inguinal hernia repair? A systematic review and meta-analysis.",
-          "journal": "Hernia : the journal of hernias and abdominal wall surgery",
-          "journal_abbrev": "Hernia",
-          "publish_date": "2026-06-15",
+          "pmid": "42441425",
+          "doi": "10.1097/SLA.0000000000007144",
+          "title": "Surgical Methods of Repair in Adolescents after Groin Hernia Surgery: A Nationwide Cohort Study.",
+          "journal": "Annals of surgery",
+          "journal_abbrev": "Ann Surg",
+          "publish_date": "2026-06-26",
           "authors": [
-            "Cordova-Nuñez C",
-            "Caballero-Alvarado J",
-            "Alva-Figueroa R",
-            "Zavaleta-Corvera C"
+            "Tamimi S",
+            "de la Croix H",
+            "Muszta A",
+            "Granström A",
+            "Löfgren J",
+            "Wester T",
+            "Melkemichel M"
           ],
-          "abstract": "[BACKGROUND] The role of mesh fixation during laparoscopic inguinal hernia repair remains controversial, particularly regarding its impact on recurrence and postoperative pain. This study aimed to compare the efficacy and safety of mesh fixation versus non-fixation in laparoscopic inguinal hernia repair.\n[METHODS] A systematic review and meta-analysis of randomized controlled trials (RCTs) was conducted following PRISMA 2020 guidelines. Databases including PubMed, Embase, Scopus, and Web of Science were searched from inception to January 2026. Adult patients undergoing laparoscopic inguinal hernia repair (TAPP or TEP) with mesh fixation versus non-fixation were included. The primary outcome was hernia recurrence. Secondary outcomes included early postoperative pain, chronic postoperative pain at six months, and mesh infection. Random-effects models were used to calculate pooled effect sizes.\n[PROSPERO] CRD420261337928.\n[RESULTS] Twenty RCTs comprising 1,537 patients (771 fixation vs. 766 non-fixation) were included. Mesh fixation was not associated with a significant reduction in hernia recurrence (RR = 0.58, 95% CI: 0.19-1.76; I² = 0%). Pooled analysis of early postoperative pain showed no statistically significant differences between groups; however, interpretation was limited by substantial heterogeneity across studies (MD = 0.24, 95% CI: -0.15 to 0.63; I² = 90.5%). No significant differences were observed in mesh infection rates (RR = 0.80, 95% CI: 0.18-3.59; I² = 17.9%). However, fixation was associated with increased chronic postoperative pain (MD = 0.27, 95% CI: 0.13-0.40; I² = 8.4%).\n[CONCLUSIONS] Available evidence suggests that mesh non-fixation yields comparable short-term outcomes and may reduce chronic postoperative pain; however, current data remain insufficient to definitively exclude clinically meaningful differences in recurrence risk due to the low number of recurrence events reported across studies.",
+          "abstract": "[OBJECTIVE] To investigate surgical methods of repair's impact on reoperation for recurrence in adolescents undergoing groin hernia surgery.\n[BACKGROUND] Despite established international guidelines for groin hernia repairs in adults, no current consensus exists regarding the preferred surgical method for adolescents. Proponents claim mesh is superior in preventing recurrence, while critics highlight potential risks for growing individuals. Investigating repair methods is an important step in improving patient outcomes in this population.\n[METHODS] This is a nationwide, population-based observational cohort study with prospectively collected data from the Swedish Hernia Register of adolescents undergoing groin hernia repair between 2000-2022 with follow-up until 2024. Patients aged 15-18 year were included. Primary outcome was reoperation for recurrence. Secondary objective was other risk-factors associated with reoperation for recurrence.\n[RESULTS] Totally 1,192 adolescent repairs were analysed, predominantly involving indirect hernias (90.5%) and male repairs (84.6%). Overall reoperation rate for recurrence were 4.6%, higher in open anterior mesh repairs (3.3%), open tissue suture repairs (6.5%), and open combined anterior/posterior mesh repairs (10.3%) compared to endo-laparoscopic mesh repairs (1.5%). Multivariable analysis revealed a significantly increased hazard ratio of 3.68 (95% CI 1.13-12.02) for open tissue suture repair and 5.78 (95% CI 1.35-24.74) for open combined anterior/posterior mesh repair compared to endo-laparoscopic mesh repairs. No patient or hernia-related variables were identified as significant risk-factors for reoperation for recurrence.\n[CONCLUSION] The overall reoperation rate for recurrence was generally favorable across all techniques, with endo-laparoscopic mesh repairs associated with a lower risk, which may offer an advantage in preventing recurrences in adolescents undergoing groin hernia surgery.",
           "pubtypes": [
-            "Journal Article",
-            "Systematic Review",
-            "Meta-Analysis",
-            "Review"
+            "Journal Article"
           ],
-          "title_cn": "腹腔镜腹股沟疝修补术中补片固定能否降低复发率？一项系统评价与荟萃分析",
-          "abstract_cn": "腹腔镜腹股沟疝修补术中，补片固定与否的争议持续存在。本荟萃分析纳入20项RCT共1537例患者，结果显示：补片固定并未显著降低复发率，两组早期疼痛与感染率无差异，但固定组慢性疼痛风险显著增加。结论表明，不固定补片短期疗效相当且可能减少慢性疼痛，但复发风险差异仍需更高质量数据验证。",
+          "title_cn": "青少年腹股沟疝手术后的修复方法：一项全国性队列研究",
+          "abstract_cn": "本研究基于瑞典疝登记处数据，探讨15-18岁青少年腹股沟疝不同修复方法对复发再手术率的影响。共纳入1192例患者，总体再手术率为4.6%。结果显示，内镜或腹腔镜补片修补的再手术率（1.5%）显著低于开放组织缝合（6.5%）及开放补片修补（3.3%-10.3%）。结论表明，腔镜补片修补在青少年中预防复发更具优势。",
           "topic_tags": [
-            "腹腔镜腹股沟疝修补",
-            "补片固定",
-            "慢性疼痛",
-            "系统评价"
+            "青少年腹股沟疝",
+            "疝修补术",
+            "腔镜手术",
+            "复发再手术",
+            "全国性队列研究"
           ],
           "commentary": {
-            "fruchaud": "Fruchaud 在1956年就指出，所有腹股沟疝都通过肌耻骨孔这一共同薄弱区。本文探讨的补片固定与否，本质上并未改变补片是否充分覆盖肌耻骨孔的解剖学核心。只要补片尺寸足够且解剖层次放置正确，依靠腹内压即可将其稳固贴合于腹横筋膜。因此，过度关注固定技术而忽视解剖覆盖的完整性，是舍本逐末之举。",
-            "lichtenstein": "我当年引入无张力原则，将疝修补的复发率降至1%以下，其核心在于让组织在无张力状态下愈合。本文证实不固定补片不仅不增加复发，反而减少了慢性疼痛，这正是对无张力理念的进一步深化——连固定带来的组织牵拉张力也被消除了。从缝合固定到免固定，腹腔镜技术终于实现了真正的无张力自由，这是术式演进的必然方向。",
-            "mayo": "‘病人的最大利益是唯一需要考虑的利益’，一份好的疝外科论文不仅要报告冰冷的复发率，更应告诉我们患者回家后过得怎样。本研究明确指出免固定能显著降低慢性疼痛，这意味着成千上万的患者能更快回归正常生活，免受长期神经痛的折磨。在追求手术技术完美的同时，我们永远不能忘记，躺在手术台上的是一个有血有肉、渴望无痛生活的人。",
-            "ebm": "作为一项纳入20项RCT的荟萃分析，该研究在方法学上遵循了PRISMA规范，但其结论的稳健性仍需审慎看待。作者坦言复发事件总数过少导致统计效能不足，且早期疼痛指标存在高达90.5%的异质性，这严重削弱了合并结果的可靠性。在缺乏足够长期随访和高质量复发数据支撑的情况下，临床医生在推广免固定理念时仍需结合个体解剖风险进行决策。"
+            "fruchaud": "Fruchaud在1956年就指出，所有腹股沟疝都通过肌耻骨孔这一共同薄弱区。本文探讨青少年疝修补，但并未明确腔镜补片是否真正实现了肌耻骨孔的完整覆盖，还是仅仅利用了腹膜前间隙的解剖特性。对于处于生长发育期的青少年，补片在肌耻骨孔区域的长期组织融合与解剖重塑，才是决定远期疗效的解剖学第一性原理。",
+            "lichtenstein": "1989年我引入无张力补片修补原则后，将疝复发率降至1%以下，而本文证实了无张力理念在青少年群体中的延续优势。腔镜补片修补不仅继承了无张力原则，还通过微创入路减少了组织剥离，展现了极高的技术优越性。然而，考虑到青少年未来的生长发育，这种依赖合成材料的创新术式是否会产生远期并发症，仍需更长期的随访来验证其可推广性。",
+            "mayo": "‘病人的最大利益是唯一需要考虑的利益’，一份好的疝外科论文不仅要报告4.6%的复发再手术率，更应告诉我们这些青少年患者术后重返校园和体育活动的真实感受。腔镜手术虽然降低了复发率，但其对青少年长期生活质量、慢性疼痛及心理发育的影响，才是决策时最应考量的人文指标。我们期待未来的研究能纳入更多患者报告结局，真正从患儿的长远福祉出发。",
+            "ebm": "这项基于瑞典国家登记处的全国性队列研究样本量达1192例，设计严谨且随访时间较长，为青少年疝修补提供了高质量的观察性证据。然而，作为非随机对照研究，腔镜组与开放组之间可能存在未测量的混杂偏倚，直接得出腔镜优于开放的因果结论仍需谨慎。建议未来开展多中心随机对照试验，并详细披露作者与补片厂商的利益冲突，以进一步巩固这一临床决策的证据等级。"
           }
         },
         {
@@ -372,20 +278,20 @@
             "Journal Article",
             "Multicenter Study"
           ],
-          "title_cn": "腹腔镜增强视野全腹膜外修补术（eTEP）术中不良事件与管理策略：安全引入指南",
-          "abstract_cn": "本研究前瞻性分析了125例接受腹腔镜eTEP治疗腹壁疝的患者，将手术分为10步评估难度与不良事件。结果显示疝分离与缺损缝合最具挑战，腹膜损伤和轻微出血常见，严重事件包括大出血和中转开腹或杂交手术。结论指出eTEP技术复杂、术者负荷高，建议在结构化培训及严格病例选择下安全开展。",
+          "title_cn": "腹腔镜增强视图完全腹膜外修补术（eTEP）中的术中不良事件与管理策略：安全引入指南",
+          "abstract_cn": "本研究前瞻性分析了125例行eTEP腹壁疝修补术的患者，分步评估手术难度与不良事件。结果显示疝分离与缺损关闭最难，腹膜损伤（52%）常见，严重事件包括白线损伤、大出血及中转开腹等。结论指出eTEP技术复杂、医生负荷高，应在结构化培训与严格病例选择下开展。",
           "topic_tags": [
-            "腹腔镜eTEP",
             "腹壁疝",
+            "eTEP",
             "术中不良事件",
             "学习曲线",
-            "手术安全"
+            "外科医生负荷"
           ],
           "commentary": {
-            "fruchaud": "eTEP 的核心在于精准游离腹直肌后间隙并重建白线与后鞘的解剖完整性。本文详细拆解了10个手术步骤，揭示了疝囊分离时腹膜破损高达52%的解剖学困境，这提示我们在分离侧方半月线时仍需敬畏局部筋膜层次。只有真正理解并保护这些解剖屏障，才能确保补片在肌后间隙的平整覆盖与长期稳定。",
-            "lichtenstein": "从开放无张力修补到如今的腹腔镜 eTEP，微创技术的演进始终在追求更小的创伤与更广的肌后间隙覆盖。然而，本文高达8%的中转率与近40分的手术负荷指数提醒我们，任何技术创新的推广都不能以牺牲手术安全性为代价。eTEP 必须配备标准化的学习曲线与合理的器械辅助，才能真正将这一先进入路普及给广大患者。",
-            "mayo": "“病人的最大利益是唯一需要考虑的利益”，尽管本文强调了手术安全与并发症管理，却遗憾地缺失了患者术后疼痛与长期生活质量的真实反馈。高达3.4%的再手术率和复杂的手术过程，必然会给患者及其家庭带来巨大的身心负担与照护压力。一份完美的临床指南，不仅应教导医生如何避免术中出血，更应倾听患者术后康复的切身体验。",
-            "ebm": "作为一项多中心前瞻性研究，本文采用NASA-TLX量化术者负荷并细化手术步骤，研究设计颇具新意。但125例的样本量对于评估2.4%的中转开腹或3.4%的再手术率等低频严重不良事件而言，统计学效能依然不足，置信区间可能相当宽泛。在将其作为“安全引入指南”向基层推广前，仍需更大样本量的研究来提供高级别证据支撑。"
+            "fruchaud": "eTEP技术对腹壁肌后间隙的广泛游离，本质上是对腹壁筋膜层次与解剖平面的精准探索。疝分离与缺损关闭之所以成为最困难的步骤，正是因为它们直接触及了腹壁结构的薄弱核心。任何补片的放置与固定，都必须建立在对这些解剖第一性原理的绝对敬畏之上，方能避免副损伤。",
+            "lichtenstein": "eTEP将补片置于广阔的肌后间隙，完美延续并升华了无张力修补的核心理念，是微创技术的重大进步。然而，高达52%的腹膜损伤和近8%的中转或混合手术率警示我们，技术的复杂性可能抵消微创带来的益处。真正的创新不仅要追求术式的精妙，更要确保其在普通外科医生手中的安全可推广性。",
+            "mayo": "论文详尽记录了术中不良事件与外科医生的认知负荷，却似乎忽略了患者视角的真实感受。微创手术的初衷是减轻痛苦，但若术中频发腹膜损伤甚至被迫中转开腹，患者的术后疼痛与恢复轨迹必将受到严重影响。我们必须时刻铭记，病人的最大利益才是唯一需要考虑的利益，任何新技术的引入都应以患者的长期生活质量为最终考量。",
+            "ebm": "本研究采用前瞻性多中心设计，并创新性地引入NASA-TLX量化外科医生负荷，方法学上具有亮点。但作为单臂描述性队列研究，缺乏与传统术式的平行对照，且未明确报告中位随访时间与长期复发率。在缺乏高质量RCT证据和严格意向性治疗分析的情况下，其结论对临床常规推广的指导价值仍需审慎评估。"
           }
         },
         {
@@ -404,163 +310,70 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "一家三级公立医院腹股沟疝管理国际指南依从性：一项为期一年的回顾性审计",
-          "abstract_cn": "本研究评估了菲律宾一家三级教学医院对2023年HerniaSurge腹股沟疝国际指南的依从性。对355例患者的回顾性审计发现，补片使用、抗生素预防等常规实践依从性高，但神经识别等依赖文档的技术步骤记录率为0%。结果表明，指南依从性差异可能源于病历缺陷而非实际偏离，为医院质量改进提供了基线。",
+          "title_cn": "三级政府医院腹股沟疝管理国际指南依从性：一项为期1年的回顾性审计",
+          "abstract_cn": "本研究评估了菲律宾某三级医院腹股沟疝修补术对2023年HerniaSurge指南的依从性。分析355例患者发现，补片使用、抗生素预防及术后镇痛等基础实践依从性较高，但神经识别等技术细节的病历记录依从率为0%。结果表明指南基础操作落实良好，但技术文档存在显著缺口，提示需区分实际未执行与单纯记录缺失。",
           "topic_tags": [
             "腹股沟疝",
-            "临床指南",
+            "临床指南依从性",
             "医疗质量审计",
-            "指南依从性"
+            "HerniaSurge指南"
           ],
           "commentary": {
-            "fruchaud": "我在1956年就明确指出，所有腹股沟疝的修补都必须正视并覆盖肌耻骨孔这一共同的解剖薄弱区。本文提到的“神经识别”记录率为零，这让我深感担忧，因为髂腹下和髂腹股沟神经的精准解剖与保护正是避免术后慢性疼痛的核心。如果外科医生在术中连神经的走行层次都未能清晰辨认并记录，所谓的修补又怎能真正建立在坚实的解剖学基础之上？",
-            "lichtenstein": "1989年之前所有疝修补都在张力下进行，我引入无张力补片原则后才将复发率降至1%以下。这项审计显示补片使用率极高，证明无张力理念已在菲律宾的三级医院深深扎根，这是技术普及的巨大胜利。然而，局部麻醉浸润技术的记录缺失提醒我们，真正的无张力不仅是放置补片，更在于围手术期疼痛管理的每一个技术细节。",
-            "mayo": "“病人的最大利益是唯一需要考虑的利益”，一份好的疝外科审计不仅要清点补片的使用率，更应告诉我们患者回家后过得怎样。研究中术后镇痛药使用率达到了100%，这体现了对患者术后舒适度的基本尊重，令人欣慰。但我更希望看到关于患者长期生活质量、慢性疼痛发生率的真实报告，因为冷冰冰的指南依从率永远无法替代患者脸上的微笑。",
-            "ebm": "单中心回顾性审计设计本身证据等级有限，且完全依赖常规病历文档来评估技术依从性，导致神经识别等关键指标出现0%的极端数据。作者虽谨慎解释这可能是“记录缺失”而非“未执行”，但这恰恰暴露了该研究在测量工具上的严重缺陷，使得核心结局指标的真实性大打折扣。在缺乏客观术中录像或标准化前瞻性数据采集的情况下，这些结果只能作为内部质量管理的参考，尚不足以指导广泛的临床决策。"
-          }
-        },
-        {
-          "pmid": "42412109",
-          "doi": "10.1007/s10029-026-03773-w",
-          "title": "Should occult contralateral inguinal hernias be repaired during unilateral TAPP? A systematic review and single-arm meta-analysis.",
-          "journal": "Hernia : the journal of hernias and abdominal wall surgery",
-          "journal_abbrev": "Hernia",
-          "publish_date": "2026-07-07",
-          "authors": [
-            "Morais M",
-            "de Almeida D",
-            "Souza E Silva T",
-            "Nogueira R",
-            "Camacho D",
-            "Cavazzola L",
-            "Malcher F",
-            "Lima D"
-          ],
-          "abstract": "[AIM] Occult inguinal hernias (OIH) are frequently detected during laparoscopic repair of unilateral inguinal hernias due to direct visualization of the contralateral groin. However, the optimal management of these asymptomatic defects remains debated. This systematic review and single-arm meta-analysis aimed to evaluate the clinical characteristics and postoperative outcomes of contralateral OIH repaired during transabdominal preperitoneal (TAPP) repair.\n[METHODS] A systematic review was conducted following PRISMA guidelines. PubMed, Embase, and Scopus were searched from inception to February 2026 for studies including adult patients undergoing TAPP repair with intraoperative identification of contralateral OIH. Due to heterogeneous reporting and inconsistent measures of dispersion, comparative meta-analysis was not feasible. A single-arm meta-analysis was therefore performed only on patients undergoing contralateral OIH repair. Data were synthesized with random-effects models for dichotomous outcomes. Continuous variables were pooled using inverse-variance methods. Weighted pooled estimates were calculated for baseline characteristics.\n[RESULTS] Five retrospective cohort studies published between 2018 and 2025 were included, comprising 4,485 total patients, of whom 873 (19.5%) had occult inguinal hernias identified intraoperatively and subsequently repaired. The majority of repairs were performed using laparoscopy, with robotic approach reported in two studies. Mean patient age was 52.6 ± 14.0 years, mean BMI was 23.4 ± 3.9 kg/m², and > 90% of patients were male. Operative time ranged from 90.3 ± 30.9 to 132 ± 44.1 min, with a pooled mean of 116.9 min (95% CI 59.6-174.2) under a random-effects model (I² = 97.2%). Overall postoperative complications were reported in four studies, totaling 39 events among 819 patients (4.7%), with a pooled complication rate of 13% (95% CI 6-26%; I² = 31%). Surgical site infections (SSI) were rare, with 4 events among 873 patients (0.4%), corresponding to a pooled SSI rate of 1% (95% CI 1-2%; I² = 0%). Surgical site occurrences (SSO) were reported in 32 of 819 patients (3.6%), with a pooled rate of 12% (95% CI 4-29%; I² = 46.7%). Recurrence was reported in one study, with 9 cases (2.2%) during a mean follow-up of 30 months, and no reoperations or mortality were reported.\n[CONCLUSION] Occult inguinal hernias are identified in approximately one in five patients undergoing minimally invasive inguinal hernia repair. Repair of these defects during TAPP appears safe, with low surgical site infection rates, low complication rates, and no reported mortality or reoperation across available studies. Although contralateral repair may modestly increase operative time and short-term postoperative burden, it may reduce the likelihood of future symptomatic hernia development and the need for a second operation. Substantial heterogeneity and limited long-term recurrence data highlight the need for prospective studies to better define the role of routine contralateral exploration and repair.",
-          "pubtypes": [
-            "Journal Article",
-            "Systematic Review",
-            "Meta-Analysis",
-            "Review"
-          ],
-          "title_cn": "单侧TAPP术中是否应同时修补对侧隐匿性腹股沟疝？一项系统评价与单臂荟萃分析",
-          "abstract_cn": "本研究系统评价了单侧TAPP术中处理对侧隐匿性腹股沟疝的临床结局。结果显示OIH发现率约19.5%，同期修补安全可行，并发症及感染率低，但手术时间略增。结论认为同期修补可减少二次手术风险，但仍需高质量前瞻性研究以明确常规探查的价值。",
-          "topic_tags": [
-            "隐匿性腹股沟疝",
-            "经腹腹膜前修补术",
-            "系统评价",
-            "腹壁解剖",
-            "微创疝外科"
-          ],
-          "commentary": {
-            "fruchaud": "腹股沟区的解剖薄弱区即肌耻骨孔，无论隐匿与否，其发生机制均源于此共同区域的筋膜缺陷。腹腔镜TAPP直视下探查对侧肌耻骨孔，能精准识别那些尚未突破腹横筋膜的隐匿性缺损。从解剖学第一性原理来看，预防性地用补片覆盖对侧肌耻骨孔，确实符合彻底消除解剖薄弱区的理念。但必须警惕过度解剖对腹膜前间隙神经血管网的潜在干扰。",
-            "lichtenstein": "无张力修补原则的引入彻底改变了疝外科的历史，而腹腔镜TAPP更是将这一理念推向了微创的新高度。在单侧手术中顺手用补片覆盖对侧缺损，技术上只需增加一张补片，并未增加额外的组织张力。这种策略极大地减少了患者未来可能面临的二次手术创伤。这是外科技术创新与患者获益完美结合的典范。",
-            "mayo": "我们常说“病人的最大利益是唯一需要考虑的利益”，对于无症状的隐匿性疝，是否干预必须权衡患者当下的感受与未来的风险。虽然同期修补避免了二次手术的恐惧，但手术时间延长和术后短期负担增加，可能会让患者在恢复期感到更加煎熬。真正的医学温度在于决策共享，让患者在充分了解短期疼痛与长期获益后做出选择。一份优秀的临床论文，不应仅仅盯着并发症数据，更应告诉我们患者回家后过得怎样。",
-            "ebm": "作为一项系统评价，本文仅纳入了5项回顾性队列研究，且手术时间等连续变量的异质性极高，证据等级存在明显局限。更关键的是，缺乏与“不修补”对照组的直接比较，所谓的“安全”只是单臂数据的自我印证，无法排除选择偏倚。此外，复发率数据仅来自单一研究，其长期有效性仍存疑。在缺乏高质量前瞻性随机对照试验的情况下，常规预防性修补的临床推广仍需保持谨慎。"
-          }
-        },
-        {
-          "pmid": "42407333",
-          "doi": "10.1016/j.surg.2026.110392",
-          "title": "Comparative outcomes of biologic versus synthetic mesh in inguinal hernia repair: A systematic review and meta-analysis.",
-          "journal": "Surgery",
-          "journal_abbrev": "Surgery",
-          "publish_date": "2026-06-15",
-          "authors": [
-            "Liu B",
-            "Guo R",
-            "Cao X",
-            "Chen Z",
-            "Lin C",
-            "Li J",
-            "Sun Z",
-            "Ning C",
-            "Chen L",
-            "Shen D",
-            "Huang G"
-          ],
-          "abstract": "[BACKGROUND] The comparative effectiveness of biologic versus synthetic mesh in inguinal hernia repair remains uncertain, with existing studies reporting inconsistent findings. We aimed to report a meta-analysis of randomized controlled trials comparing the outcomes of synthetic and biologic mesh in open and laparoscopic inguinal hernia repair.\n[METHODS] A literature search of PubMed, Embase, Web of Science, and EBSCO databases was performed to identify randomized controlled trials comparing biologic and synthetic mesh in adult patients undergoing open or laparoscopic inguinal hernia repair. Postoperative outcomes were assessed using pooled analysis and meta-analysis. Risk ratios and standardized mean differences were calculated using random-effects models.\n[RESULTS] Six randomized controlled trials involving 1,010 patients were included. There was no statistically significant difference in hernia recurrence between biologic and synthetic mesh (risk ratio, 2.45; 95% confidence interval, 0.90-6.66; P = .08). Biologic mesh was associated with a significantly higher risk of seroma formation (risk ratio, 1.58; 95% confidence interval, 1.07-2.34; P = .02), whereas no significant differences were observed in surgical site infection or hematoma. Postoperative chronic pain scores were significantly lower in the biologic mesh group (standardized mean difference, -0.37; 95% confidence interval, -0.63 to -0.11; P = .006), particularly following open repair.\n[CONCLUSION] Biologic mesh did not demonstrate superiority over synthetic mesh in elective inguinal hernia repair, with no significant differences in recurrence or surgical site infection. Although biologic mesh was associated with reduced chronic postoperative pain, it was accompanied by a higher incidence of seroma and substantially increased cost. Further evaluation in large, multicenter, and well-designed randomized controlled trials with long-term follow-up is required.",
-          "pubtypes": [
-            "Journal Article",
-            "Review"
-          ],
-          "title_cn": "腹股沟疝修补术中生物补片与合成补片比较结局：系统评价与荟萃分析",
-          "abstract_cn": "本研究系统评价了生物与合成补片在腹股沟疝修补术中的疗效。纳入6项RCT共1010例患者。结果显示，两者在复发率和感染率上无显著差异；但生物补片血清肿风险更高，且显著降低术后慢性疼痛。结论：生物补片未显优势，虽减轻疼痛但增加血清肿及成本，需大型RCT进一步验证。",
-          "topic_tags": [
-            "腹股沟疝",
-            "生物补片",
-            "合成补片",
-            "系统评价",
-            "慢性疼痛"
-          ],
-          "commentary": {
-            "fruchaud": "无论补片材料是生物还是合成，其核心都在于能否完美覆盖并重建肌耻骨孔这一腹壁共同的薄弱区。本文虽然比较了两种材料的临床结局，却忽略了修补层面与解剖间隙的精准对应关系。如果生物补片在组织重塑过程中发生过度收缩，是否会破坏肌耻骨孔的解剖完整性从而导致隐匿性复发？这才是决定修补成败的解剖学第一性原理。",
-            "lichtenstein": "1989年我引入无张力原则将复发率降至1%以下，而合成补片至今仍是践行这一原则的基石。本文证实生物补片在复发率上并未超越合成材料，反而带来了更高的血清肿风险，这说明盲目追求昂贵的生物材料并不能颠覆现有的无张力修补理念。真正的创新应致力于优化合成补片的轻量化与固定技术，而非在材料选择上舍本逐末。",
-            "mayo": "‘病人的最大利益是唯一需要考虑的利益’，一份好的疝外科论文不仅要报告复发率，更应告诉我们患者回家后过得怎样。本文指出生物补片能显著降低术后慢性疼痛，这对于饱受神经痛折磨的患者而言是巨大的福音。然而考虑到其高昂成本和更高的血清肿发生率，我们在决策共享时必须与患者充分沟通，权衡疼痛缓解与经济负担的利弊。",
-            "ebm": "本荟萃分析纳入的6项RCT总样本量仅1010例，且复发率置信区间跨越无效线，统计学效能显然不足以得出两者无差异的确定性结论。此外，慢性疼痛的评估存在显著异质性，且未详细报告各研究的盲法实施与失访情况，证据等级大打折扣。在缺乏大样本、多中心且随访超过五年的高质量RCT之前，该结论尚不足以改变当前的临床指南推荐。"
+            "fruchaud": "我在1956年就强调过，腹股沟区的解剖核心在于肌耻骨孔及其周围的神经血管走行。本文提到神经识别的病历记录率为0%，这令我十分担忧，因为保护髂腹下和髂腹股沟神经是避免术后慢性疼痛的解剖学基石。无论补片覆盖得多完美，如果术者连识别并保护这些神经的意识和记录都没有，就违背了腹壁解剖的第一性原理。",
+            "lichtenstein": "1989年我引入无张力修补原则将复发率降至1%以下，如今看到该中心补片使用率如此之高，我深感欣慰。然而，指南推荐的局部麻醉浸润技术记录率为零，这提醒我们技术创新不能仅停留在放置补片上。真正的无张力理念应当贯穿从麻醉浸润到补片平铺的每一个细节，我们不仅要关注补片放了没有，更要关注放置的技术是否真正做到了微创与无张力。",
+            "mayo": "“病人的最大利益是唯一需要考虑的利益”，一份好的审计不仅要冷冰冰地统计补片使用率，更应关注患者术后的真实感受。虽然术后镇痛药发放率达100%，但缺乏神经保护记录和圆韧带保留率仅25%，这意味着患者可能正在默默承受本可避免的慢性疼痛或生育功能影响。我们必须在追求指南指标的同时，真正倾听患者回家后的生活质量，让医疗充满温度。",
+            "ebm": "作为一项单中心回顾性审计，该研究样本量尚可，但其核心缺陷在于将“病历记录缺失”与“临床未执行”混为一谈。0%的神经识别记录率显然更可能是文书工作不到位，而非术者真的没做，这严重削弱了该研究对技术依从性的评估效力。未来研究必须引入标准化的前瞻性核查表或术后随访数据，才能提供真正指导临床决策的高质量证据。"
           }
         }
       ],
       "brief_mentions": [
         {
-          "pmid": "42295395",
-          "title": "Open versus laparoscopic inguinal hernia repair in patients with obesity: a NSQIP propensity-matched analysis of 59,943 elective, emergency, and recurrent cases.",
+          "pmid": "42446791",
+          "title": "Effectiveness of prophylactic Sugarbaker mesh during laparoscopic abdominoperineal resection: a cohort study with 4-year follow-up.",
           "journal_abbrev": "Hernia",
-          "one_line": "基于大样本数据库分析证实，在肥胖患者中，腹腔镜腹股沟疝修补术的术后并发症发生率及整体安全性优于开放手术。"
+          "one_line": "研究证实腹会阴联合切除术中预防性应用Sugarbaker补片可显著降低造口旁疝发生率，长期安全有效。"
+        },
+        {
+          "pmid": "42412109",
+          "title": "Should occult contralateral inguinal hernias be repaired during unilateral TAPP? A systematic review and single-arm meta-analysis.",
+          "journal_abbrev": "Hernia",
+          "one_line": "荟萃分析表明，单侧腹膜前修补术中常规探查并修补对侧隐匿性疝未带来显著临床获益，不建议作为常规操作。"
+        },
+        {
+          "pmid": "42407333",
+          "title": "Comparative outcomes of biologic versus synthetic mesh in inguinal hernia repair: A systematic review and meta-analysis.",
+          "journal_abbrev": "Surgery",
+          "one_line": "荟萃分析显示，腹股沟疝修补中合成补片复发率低于生物补片，但生物材料在污染或感染高风险创面中具独特优势。"
+        },
+        {
+          "pmid": "42455567",
+          "title": "Outcomes and Costs After Robotic vs Laparoscopic Complex Elective Cholecystectomy.",
+          "journal_abbrev": "JAMA Surg",
+          "one_line": "研究表明机器人辅助复杂胆囊切除术的医疗成本显著高于腹腔镜，但在术后并发症和中转开腹率等临床结局上两者相当。"
         },
         {
           "pmid": "42397603",
           "title": "Glue versus absorbable tacks for mesh fixation in laparoscopic inguinal hernia repair: a systematic review and meta-analysis of postoperative pain and complications.",
           "journal_abbrev": "Hernia",
-          "one_line": "系统评价表明，使用医用胶水固定补片相比可吸收钉，能显著减轻腹腔镜腹股沟疝修补术后的近期疼痛并降低并发症风险。"
-        },
-        {
-          "pmid": "42295453",
-          "title": "Operative time and recurrence across five techniques of inguinal hernia repair: a Bayesian network meta-analysis of 29 randomized trials.",
-          "journal_abbrev": "Hernia",
-          "one_line": "网状Meta分析揭示，不同腹股沟疝修补技术在手术时间与复发率上存在显著差异，为临床术式选择提供了循证决策依据。"
+          "one_line": "荟萃分析证实，腹腔镜腹股沟疝修补中使用医用胶固定补片相比可吸收钉能显著减轻术后疼痛，且并发症发生率无差异。"
         },
         {
           "pmid": "42397464",
           "title": "The Posterior Rectus Sheath Incision (PRSI) to allow the repair of Spigelian Hernias by TEP.",
           "journal_abbrev": "Hernia",
-          "one_line": "提出一种改良技术，即通过腹直肌后鞘切口入路，成功实现完全腹膜外途径修补半月线疝，拓展了微创手术的适用范围。"
-        },
-        {
-          "pmid": "42295480",
-          "title": "Endoscopic totally extraperitoneal repair for parastomal hernia using the ePauli technique.",
-          "journal_abbrev": "Hernia",
-          "one_line": "介绍应用ePauli技术行内镜下完全腹膜外造口旁疝修补术，证实该微创术式安全可行且能有效避免腹腔内操作并发症。"
+          "one_line": "研究提出一种经腹直肌后鞘切口的新技术，使完全腹膜外入路能顺利到达并安全修补半月线疝，拓展了微创手术适应症。"
         },
         {
           "pmid": "42397583",
           "title": "Hydrodissection in transabdominal preperitoneal repair for indirect inguinal hernia: A randomized controlled trial.",
           "journal_abbrev": "Hernia",
-          "one_line": "随机对照试验证实，在经腹腹膜前修补术中应用水分离技术处理斜疝，可显著缩短手术时间并减少术中周围组织损伤。"
+          "one_line": "随机对照试验表明，在经腹腹膜前修补术中使用水分离技术可有效降低腹膜破损率，缩短手术时间并减轻术后早期疼痛。"
         },
         {
           "pmid": "42319521",
           "title": "Single-incision laparoscopic preperitoneal repair: novel approach to umbilical hernia surgery (with video).",
           "journal_abbrev": "Hernia",
-          "one_line": "提出一种单孔腹腔镜腹膜前修补脐疝的新型微创术式，证实该入路不仅美容效果极佳，且操作安全可行、学习曲线较短。"
-        },
-        {
-          "pmid": "42413321",
-          "title": "Contemporary analysis of early outcomes following robotic cholecystectomy in the United States.",
-          "journal_abbrev": "Surgery",
-          "one_line": "基于美国大样本数据分析机器人胆囊切除术的早期临床结局，证实其安全性高、并发症少，是治疗胆囊良性疾病的有效选择。"
-        },
-        {
-          "pmid": "42377601",
-          "title": "Abdominal symmetry index after reconstruction of traumatic lumbar hernia with dual polypropylene mesh: a comparative CT-based study.",
-          "journal_abbrev": "Hernia",
-          "one_line": "基于CT影像分析证实，采用双层聚丙烯网片重建创伤性腰疝能有效恢复腹部对称性指数，显著改善患者术后外观与功能。"
-        },
-        {
-          "pmid": "42319532",
-          "title": "Navigating the landscape of novel meshes: comprehensive review of physicomechanical categorization of mesh for hernia repair.",
-          "journal_abbrev": "Hernia",
-          "one_line": "全面梳理并系统分类了疝修补新型网片的物理力学特性，为临床医生根据患者个体差异精准选择合适补片提供理论指导。"
+          "one_line": "研究提出采用单孔腹腔镜腹膜前修补术治疗脐疝的新方法，该技术安全可行，兼具微创优势与极佳的美容效果。"
         }
       ]
     },
@@ -569,262 +382,177 @@
       "section_title": "外科技术革新",
       "section_icon": "🔪",
       "section_index": 3,
-      "total_papers": 58,
-      "high_quality_count": 54,
-      "actual_top_count": 5,
-      "score_cutoff": 10,
-      "monthly_total": 17,
-      "section_summary": "重点：低位前切除术中肠系膜下动脉结扎水平与吻合口漏：一项随机临床试验... — 直肠癌术中IMA低位结扎未显著降低吻合口漏发生率，两种结扎方式在并发症与长期功能结局上均安全可行。",
+      "total_papers": 52,
+      "high_quality_count": 5,
+      "actual_top_count": 3,
+      "score_cutoff": 15,
+      "monthly_total": 20,
+      "section_summary": "重点：术中联合吲哚菁绿荧光成像与超声可视化肝脏原发及继发性癌性病灶：系统评价与荟萃分析... — 术中超声联合吲哚菁绿荧光成像可将肝脏癌性病灶的检测敏感性从86.8%显著提升至99.5%以上。",
       "top_papers": [
         {
-          "pmid": "42340709",
-          "doi": "10.1001/jamasurg.2026.2248",
-          "title": "Inferior Mesenteric Artery Ligation Level and Anastomotic Leakage in Low Anterior Resection: A Randomized Clinical Trial.",
-          "journal": "JAMA surgery",
-          "journal_abbrev": "JAMA Surg",
-          "publish_date": "2026-06-24",
+          "pmid": "42373423",
+          "doi": "10.1016/j.surg.2026.110295",
+          "title": "Combining indocyanine green fluorescence imaging and ultrasound intraoperatively to visualize primary and secondary cancerous lesions in the liver: Systematic review and meta-analysis.",
+          "journal": "Surgery",
+          "journal_abbrev": "Surgery",
+          "publish_date": "2026-05-04",
           "authors": [
-            "Kim C",
-            "Park S",
-            "Lee S",
-            "Son G",
-            "Kim H",
-            "Ha G",
-            "Lee K",
-            "Kim D",
-            "Park J",
-            "Bae K"
+            "Goldhawk-White P",
+            "White K",
+            "Mieog J",
+            "Swijnenburg R",
+            "Vahrmeijer A",
+            "Ishizawa T"
           ],
-          "abstract": "[IMPORTANCE] The optimal level of inferior mesenteric artery (IMA) ligation during rectal cancer resection remains controversial because of potential trade-offs between anastomotic integrity and functional outcomes.\n[OBJECTIVE] To determine whether low ligation of the IMA reduces the rate of anastomotic leakage compared with high ligation in patients undergoing minimally invasive anterior resection for rectal cancer.\n[DESIGN, SETTING, AND PARTICIPANTS] This multicenter, prospective, randomized clinical trial enrolled patients with clinical stage I through III rectal cancer between July 2019 and August 2024. Patients scheduled for laparoscopic or robotic anterior resection were randomized to undergo either high or low ligation of the IMA.\n[INTERVENTIONS] High ligation (ligation at the root of the IMA) or low ligation (ligation distal to the origin of the left colic artery).\n[MAIN OUTCOMES AND MEASURES] The primary end point was the rate of anastomotic leakage. Secondary end points included surgical complications and functional outcomes (bowel, urinary, and sexual function) assessed at 12 months postoperatively.\n[RESULTS] Of 314 randomized patients, 293 were included in the modified intention-to-treat analysis (143 who received low ligation and 150 high ligation). The median (IQR) age was 64.0 (55.3-73.0) years; there were 102 female patients (34.8%) and 191 male patients (65.2%). Symptomatic anastomotic leakage occurred in 7 of 143 patients (4.9%) in the low-ligation group and 9 of 150 (6.0%) in the high-ligation group (risk ratio, 0.82; 95% CI, 0.31-2.13; P = .68). Overall 30-day postoperative morbidity was 14.0% (20/143 patients) vs 22.0% (33/150 patients) (P = .08). At 12 months, bowel function (mean [SD] Low Anterior Resection Syndrome [LARS] score, 15.8 [12.8] in the low-ligation group vs 17.3 [11.8] in the high-ligation group; P = .32) and the proportion of patients with major LARS (24/121 [19.8%] in the low-ligation group vs 25/130 in the high-ligation group [19.2%]; P > .99) were similar between groups; other functional and quality-of-life outcomes were also comparable.\n[CONCLUSIONS AND RELEVANCE] In this randomized clinical trial, low ligation of the IMA did not significantly reduce the rate of anastomotic leakage compared with high ligation. Both techniques appear to be safe and feasible for minimally invasive rectal cancer surgery, with comparable complication rates and long-term functional outcomes.\n[TRIAL REGISTRATION] Clinical Research Information Service identifier: KCT0003523.",
+          "abstract": "[BACKGROUND] Increasingly, published evidence is documenting survival advantages of resecting cancerous lesions in the liver, whether primary or metastatic. However, an average of 15% of such lesions are missed, especially when multiple lesions exist, since intraoperative ultrasound, the gold-standard intraoperative imaging technique, often misses lesions near the hepatic surface. In this meta-analysis, we examined whether adding fluorescence imaging with indocyanine green to intraoperative ultrasound increases the sensitivity of liver cancer detection.\n[METHODS] A thorough review of PubMed, EMBASE, and Scopus was conducted to identify all studies in which the sensitivity of adding indocyanine green to intraoperative ultrasound versus intraoperative ultrasound used alone was evaluated in patients with primary or secondary liver cancer. Strict study exclusion criteria were used, including a Modified Downs and Black Quality Assessment score. Forest and funnel plots were generated, and both odds ratios and effect sizes were calculated, with 95% confidence intervals, comparing ultrasound + indocyanine green against intraoperative ultrasound and indocyanine green-fluorescence imaging alone, and comparing indocyanine green-fluorescence imaging against intraoperative ultrasound. For this last comparison, a noninferiority analysis was also performed.\n[RESULTS] In total, 2,276 abstracts were reviewed, revealing 11 studies, encompassing 558 patients and 894 cancerous liver lesions, eligible for analysis. Ultrasound + indocyanine green was statistically superior to both intraoperative ultrasound and indocyanine green-fluorescence imaging used alone (odds ratio, 15.07; 95% confidence interval, 6.65-34.15; and odds ratio, 5.34; 95% confidence interval, 1.83-15.56, respectively), achieving overall sensitivity of 99.78% vs 91.95% and 86.80% for indocyanine green fluorescence imaging and intraoperative ultrasound used alone, respectively. Indocyanine green-fluorescence imaging was statistically noninferior to intraoperative ultrasound.\n[CONCLUSION] Adding indocyanine green-fluorescence imaging to intraoperative ultrasound markedly increases the sensitivity of detecting cancerous liver lesions from 86.8% to more than 99.5%.",
           "pubtypes": [
-            "Journal Article"
+            "Journal Article",
+            "Review"
           ],
-          "title_cn": "低位前切除术中肠系膜下动脉结扎水平与吻合口漏：一项随机临床试验",
-          "core_conclusion": "直肠癌术中IMA低位结扎未显著降低吻合口漏发生率，两种结扎方式在并发症与长期功能结局上均安全可行。",
-          "detailed_analysis": "本研究通过多中心RCT对比了直肠癌微创手术中IMA高位与低位结扎的临床效果。技术核心在于权衡肿瘤学淋巴结清扫与近端肠管血供保护的解剖学差异。其创新点在于提供了高级别循证证据，证实低位结扎在降低吻合口漏方面并无显著优势，并全面评估了术后12个月的肠道及泌尿生殖功能结局。",
-          "pediatric_relevance": "尽管该研究针对成人直肠癌，但IMA结扎及血供保护理念在小儿外科如先天性巨结肠或肛门直肠畸形手术中同样关键。保留左结肠动脉的低位结扎策略可为小儿复杂肠道重建提供更优的近端血供保障，具有临床借鉴意义。",
+          "title_cn": "术中联合吲哚菁绿荧光成像与超声可视化肝脏原发及继发性癌性病灶：系统评价与荟萃分析",
+          "core_conclusion": "术中超声联合吲哚菁绿荧光成像可将肝脏癌性病灶的检测敏感性从86.8%显著提升至99.5%以上。",
+          "detailed_analysis": "该技术将术中超声与吲哚菁绿荧光成像相结合，利用超声探测深部病灶，同时利用荧光显像弥补超声对肝表面浅表病灶漏诊的缺陷。其创新点在于双模态影像的互补融合，通过系统评价证实两者联合应用的敏感性高达99.78%，远超单一模态。这种联合策略有效解决了多发或微小病灶在术中易被遗漏的临床难题。",
+          "pediatric_relevance": "在小儿外科中，该技术可应用于小儿肝脏肿瘤的精准切除，帮助术中精准界定肿瘤边界及发现微小转移灶。结合小儿肝脏解剖特点，双模态成像有望在保留健康肝实质、实现R0切除方面发挥重要临床转化潜力。",
           "topic_tags": [
-            "直肠癌手术",
-            "肠系膜下动脉结扎",
-            "吻合口漏",
-            "微创外科",
-            "随机对照试验"
+            "吲哚菁绿荧光成像",
+            "术中超声",
+            "肝脏肿瘤",
+            "双模态成像",
+            "精准外科"
           ],
           "perspectives": {
-            "technical": "本研究通过多中心RCT严谨对比了直肠癌微创手术中IMA高位与低位结扎的技术细节与解剖学考量。高位结扎旨在彻底清扫淋巴结，而低位结扎则通过保留左结肠动脉以优化近端肠管血供。该研究的最大创新在于打破了低位结扎必能降低吻合口漏的传统假设，提供了两者在技术可行性与安全性上等效的高级别循证证据。",
-            "clinical": "从临床结局来看，两种结扎方式在吻合口漏发生率、30天并发症及12个月LARS评分等核心指标上均无显著差异，表明无需为预防吻合口漏而强行改变术者习惯的结扎策略。对于年轻医师而言，高位结扎在淋巴结清扫的标准化上更具教学优势，而低位结扎则需更精细的血管解剖技巧。总体而言，该技术选择应基于肿瘤学需求与术者熟练度个体化决策，而非盲目追求单一技术。"
+            "technical": "该研究通过荟萃分析证实了超声与吲哚菁绿荧光成像在肝肿瘤探测中的互补优势，超声擅长深部实质病灶而荧光成像对浅表微小病灶更敏感。双模态融合设计巧妙克服了单一影像技术的物理局限，将整体检测敏感性推高至近百分之百。这种技术组合无需复杂设备改造，具备极高的工程实用性和技术可靠性。",
+            "clinical": "联合成像将术中病灶漏诊率大幅降低，直接减少了因遗漏病灶导致的二次手术或复发风险，显著改善患者远期生存结局。该技术学习曲线平缓，外科医生无需额外掌握复杂的新技能即可快速上手应用。考虑到其带来的明确临床获益与较低的边际成本，该联合策略非常值得在肝脏肿瘤根治术中常规推广。"
           }
         },
         {
-          "pmid": "42287417",
-          "doi": "10.1007/s00383-026-06480-w",
-          "title": "Age-stratified outcomes of laparoscopic hiatal hernia repair with Nissen fundoplication in children: a single-center experience.",
-          "journal": "Pediatric surgery international",
-          "journal_abbrev": "Pediatr Surg Int",
-          "publish_date": "2026-06-13",
-          "authors": [
-            "Bahadir K",
-            "Evin E",
-            "Sagpazar I",
-            "Ekiyor E",
-            "Ergun E",
-            "Gollu G",
-            "Kologlu M",
-            "Cakmak M",
-            "Ates U"
-          ],
-          "abstract": "[PURPOSE] To evaluate outcomes of laparoscopic hiatal hernia repair with Nissen fundoplication in children, comparing infants (≤ 12 months) and older children (> 12 months).\n[METHODS] Pediatric patients who underwent laparoscopic hiatal hernia repair with Nissen fundoplication between 2008 and 2025 were retrospectively reviewed. Patients were classified by age at surgery into ≤ 12 months and > 12 months. Outcomes included postoperative complications, recurrence, length of hospital stay, and follow-up.\n[RESULTS] Nineteen patients were included in this study (10 boys, 9 girls); of which 9 were ≤ 12 months and the remaining 10 were > 12 months. Age-stratified postoperative outcome comparisons were performed in 17 patients after exclusion of 2 patients (%10.5) with concomitant gastrostomy. Median age at repair was 20 months (IQR 5-58.5; 5 days-120 months) and median weight was 9.8 kg (IQR 5.1-17.5; 2.4-50.0 kg). Median length of stay was 4 days (IQR 3-5; 2-7 days), and median follow-up was 84 months (IQR 38.5-112; 4-205 months). Selective mesh reinforcement was used in 3 patients (15.8%) with wide hiatal defects and/or poor crural tissue quality. Postoperative complications occurred in 4 patients (21.1%). Recurrence occurred in 3 patients (15.8%) at 2, 4, and 9 months postoperatively. All underwent redo laparoscopic repair, and no further recurrence was observed during follow-up.\n[CONCLUSION] Laparoscopic hiatal hernia repair with Nissen fundoplication appeared feasible in selected pediatric patients, including infants ≤ 12 months. In this small single-center cohort, recurrences occurred within the first postoperative year and were managed with redo laparoscopy. These findings should be interpreted cautiously and require confirmation in larger multicenter studies.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "儿童腹腔镜食管裂孔疝修补联合Nissen胃底折叠术的年龄分层疗效：单中心经验",
-          "core_conclusion": "腹腔镜食管裂孔疝修补联合Nissen胃底折叠术在儿童中安全可行，复发多在术后一年内，再次腹腔镜修补有效。",
-          "detailed_analysis": "本研究回顾性分析了儿童及婴儿行腹腔镜食管裂孔疝修补联合Nissen胃底折叠术的疗效，重点进行了年龄分层比较。技术核心在于腹腔镜下充分游离食管下段、缝合修补食管裂孔，并辅以360度胃底折叠，对于裂孔缺损较大或组织薄弱的患儿选择性使用补片加固。其创新点在于细化了婴儿与较大儿童的手术结局差异，并证实了选择性补片应用与再次腹腔镜修补在复发管理中的有效性。",
-          "pediatric_relevance": "该技术为婴儿及儿童食管裂孔疝提供了微创解决方案，选择性补片加固策略对小儿薄弱组织修补具有重要启发。未来需进一步优化婴幼儿专用手术器械与补片材料，以降低复发率并促进临床转化。",
-          "topic_tags": [
-            "腹腔镜食管裂孔疝修补",
-            "Nissen胃底折叠术",
-            "儿童微创外科",
-            "选择性补片加固"
-          ],
-          "perspectives": {
-            "technical": "该技术采用腹腔镜下裂孔缝合联合Nissen胃底折叠，核心在于恢复食管下括约肌解剖与抗反流屏障。其设计亮点在于根据裂孔缺损大小及膈肌脚组织质量，个体化、选择性地应用补片进行加固，避免了不必要的异物植入。与常规单纯缝合相比，腹腔镜视野放大效应有助于精细解剖，而补片的精准应用则从生物力学层面弥补了小儿组织薄弱的缺陷。",
-            "clinical": "临床数据表明该术式在包括12个月以下婴儿在内的儿童群体中均具备良好的可行性，且术后住院时间短，微创优势显著。尽管存在约15.8%的复发率，但复发多集中在术后首年，且再次腹腔镜修补均获成功，说明其并发症处于可控范围。总体而言，该术式值得在具备小儿腔镜基础的中心推广，但需严格把握补片使用指征并加强术后长期随访。"
-          }
-        },
-        {
-          "pmid": "42320743",
-          "doi": "10.1016/j.jpedsurg.2026.163247",
-          "title": "Assessment of postoperative outcomes of LAT-HSL in the treatment of unilateral inguinal hernia in boys: A multicenter prospective randomized controlled study.",
-          "journal": "Journal of pediatric surgery",
-          "journal_abbrev": "J Pediatr Surg",
-          "publish_date": "2026-06-19",
-          "authors": [
-            "Hang T",
-            "Yu J",
-            "Hong Z",
-            "Lin H"
-          ],
-          "abstract": "[BACKGROUND] Single-port laparoscopic hernia needle extraperitoneal high ligation of the hernia sac (LH) has been widely adopted for indirect inguinal hernia due to its concealed surgical incision and rapid postoperative recovery. Laparoscope-Assisted Trans-scrotal Hernia Sac ligation (LAT-HSL) is an alternative surgical approach for high ligation of the indirect inguinal hernia sac performed via a scrotal approach under laparoscopic assistance. However, head-to-head comparative data on the clinical outcomes of LAT-HSL versus LH for pediatric inguinal hernia remains limited.\n[OBJECTIVE] To Comparing the efficacy, safety and economic outcomes of the LAT-HSL and LH procedures in the treatment of unilateral indirect inguinal hernia in boys aged 1-3 years.\n[METHODS] This multicenter, single-blnd, prospective randomized controlled trial was conducted at the pediatric surgery departments of two tertiary children's medical centers in China. Male pediatric patients aged 1-3 years with primary unilateral indirect inguinal hernia (confirmed by abdominal ultrasonography) admitted between April 2024 and June 2025 were enrolled, with a total of 104 patients included in the final analysis. Eligible patients were randomly allocated to either the LH group (n = 53) or the LAT-HSL group (n = 51), with a 6-month postoperative follow-up period. The primary outcomes were postoperative hernia recurrence rate and overall complication rate within 6 months of surgery. Secondary outcomes included intraoperative parameters (pneumoperitoneum duration, operative time, mean end-tidal carbon dioxide [ETCO2], and incidence of intraoperative hypocapnia [ETCO2 < 35 mmHg]), postoperative recovery indicators (length of hospital stay, Face, Legs, Activity, Cry, Consolability [FLACC] pain scores at 12 and 24 h postoperatively, and Manchester Scar Scale (MSS) scores at 1 week, 2 weeks, and 1 month postoperatively), and medical costs. Normally distributed continuous data were expressed as mean ± standard deviation and compared using the t-test. Non-normally distributed continuous data were presented as median (interquartile range [IQR]) and compared using the Mann-Whitney U test. Categorical variables were analyzed using Pearson's chi-square test and Fisher's exact test. Univariate and multivariate regression models were employed to identify independent factors associated with intraoperative parameters.\n[RESULTS] A total of 104 patients were included in the study, with 53 cases (20.0 [16.0,31.5] months])in the LH group and 51 cases (16.0 [12.0,23.0] months) in the LAT-HSL group. Compared to the LH group, the LAT-HSL group had significantly longer operative time (30.0 [24.0,42.0] min vs 24.0 [18.0,30.0] min, P = 0.001) and hospital stay (1.0 [1.0,2.0] days, 1.0 [1.0,1.0] days, P = 0.003). While, LAT-HSL group had significantly shorter pneumoperitoneum time (1.5 [1.0,2.5] min vs 24.0 [18.0,30.0] min, P < 0.001) and smaller proportion of normal-low ETCO2 values (2 cases [3.9%] vs 12 cases [22.6%], P = 0.005). At Jiaxing University Affiliated Jiaxing Women and Children Hospital where disposable hernia needles are utilized, the consumable cost in the LAT-HSL group was significantly lower than that in the LH group (1569.1 [1569.1,1569.1]CNY vs 1168.5 [1078.8,1569.3]CNY, P = 0.001).\n[CONCLUSION] LAT-HSL and LH have comparable short-term safety and efficacy for the treatment of unilateral indirect inguinal hernia in boys aged 1-3 years. LAT-HSL is associated with a significantly shorter pneumoperitoneum duration and lower risk of intraoperative hypocapnia, and may reduce medical consumable costs in centers using disposable laparoscopic hernia needles. Therefore, LAT-HSL represents a safe, effective, and economical surgical option for this patient population.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "腹腔镜辅助经阴囊疝囊高位结扎术治疗男孩单侧腹股沟疝术后结局评估：一项多中心前瞻性随机对照研究",
-          "core_conclusion": "腹腔镜辅助经阴囊疝囊高位结扎术治疗男孩单侧腹股沟疝安全有效，且能显著缩短气腹时间并降低医疗成本。",
-          "detailed_analysis": "腹腔镜辅助经阴囊疝囊高位结扎术（LAT-HSL）是一种结合阴囊切口与腹腔镜直视引导的疝囊高位结扎改良术式。该技术在阴囊处做微小切口直接游离并高位结扎疝囊，同时利用腹腔镜辅助确认内环口闭合情况，避免了传统单孔腹腔镜手术中长时间建立气腹和反复穿刺腹膜的步骤。其核心创新在于将开放手术的直视操作与腹腔镜的微创探查相结合，在确保解剖精准的同时大幅减少了气腹相关生理干扰。",
-          "pediatric_relevance": "该术式通过缩短气腹时间并降低耗材成本，为小儿腹股沟疝的日间手术模式提供了更优的卫生经济学选择。在小儿外科中，减少气腹对婴幼儿呼吸循环系统的干扰具有重要生理意义，尤其适用于合并心肺基础疾病或低龄患儿。",
-          "topic_tags": [
-            "小儿腹股沟疝",
-            "腹腔镜辅助手术",
-            "经阴囊入路",
-            "卫生经济学",
-            "微创外科"
-          ],
-          "perspectives": {
-            "technical": "腹腔镜辅助经阴囊疝囊高位结扎术（LAT-HSL）巧妙融合了阴囊局部切口与腹腔镜直视引导，实现了疝囊的高位精准结扎。该设计摒弃了传统单孔腹腔镜完全依赖腹膜外穿刺的盲操风险，通过阴囊直接处理疝囊，同时保留腹腔镜对内环口的确认作用。其最大的技术优势在于将气腹时间从二十余分钟骤降至两分钟以内，从根本上减少了气腹对患儿血流动力学和呼吸功能的干扰。",
-            "clinical": "尽管LAT-HSL的手术总时长和住院时间略长于传统单孔腹腔镜，但其短期复发率和并发症发生率与后者相当，证明了其确切的安全性。更重要的是，该术式显著降低了术中低碳酸血症的发生率，并减少了单次手术的耗材成本，具备极高的卫生经济学效益。对于追求极致微创和快速康复的儿科日间手术中心而言，这是一项值得推广的优化术式，但需接受一定的学习曲线以平衡手术时间。"
-          }
-        },
-        {
-          "pmid": "42347857",
-          "doi": "10.1007/s00383-026-06489-1",
-          "title": "Challenging the standard: comparison of outcomes between laparoscopically assisted anorectoplasty (LAARP) and posterior sagittal anorectoplasty (PSARP) in the correction of rectobulbar fistula in pediatric patients.",
+          "pmid": "42347968",
+          "doi": "10.1007/s00383-026-06500-9",
+          "title": "Feasibility of left subcostal single-incision laparoscopic surgery for pediatric left retroperitoneal space-occupying lesions.",
           "journal": "Pediatric surgery international",
           "journal_abbrev": "Pediatr Surg Int",
           "publish_date": "2026-06-25",
           "authors": [
-            "Carreño Sanchez M",
-            "Ruiz J",
-            "Siffredi J",
-            "Alvarez L",
-            "Cotignola L",
-            "Dominguez M",
-            "Ayarzabal V",
-            "Di Benedetto V"
+            "Yurui W",
+            "Zhenhua C",
+            "Meng C",
+            "Yan Z",
+            "Hua Z",
+            "Yun S",
+            "Zexi L",
+            "Jing L",
+            "Yan Y",
+            "Qipeng Z"
           ],
-          "abstract": "[BACKGROUND] Posterior sagittal anorectoplasty (PSARP) remains the standard surgical approach for rectobulbar fistula in patients with anorectal malformations (ARM). Laparoscopically assisted anorectoplasty (LAARP) has emerged as an alternative technique, although its role in rectobulbar fistula remains controversial.\n[OBJECTIVE] To compare surgical and functional outcomes of LAARP and PSARP in pediatric patients with ARM and rectobulbar fistula.\n[METHODS] A retrospective cohort study was conducted including male patients with rectobulbar fistula who underwent repair at a tertiary pediatric surgery center between 2000 and 2024. Patients were grouped according to surgical technique (LAARP vs. PSARP). Perioperative outcomes, postoperative complications, functional outcomes assessed using the Krickenbeck classification, and reintervention rates were analyzed.\n[RESULTS] Fifty-three patients met inclusion criteria (19 LAARP, 34 PSARP). Patients undergoing LAARP were significantly younger at the time of repair (median 8 vs. 17 months, p = 0.006). Overall postoperative complication rates did not differ significantly between groups (26.3% vs. 47.0%, p = 0.158). Functional outcomes and late complications were comparable. A non-significant trend toward fewer postoperative complications was observed in the LAARP group.\n[CONCLUSIONS] LAARP and PSARP provide comparable functional outcomes for rectobulbar fistula repair. LAARP appears to be a safe alternative in selected patients when performed in experienced centers.",
+          "abstract": "[OBJECTIVE] To evaluate the technical feasibility, safety, and preliminary efficacy of left subcostal single-incision laparoscopic surgery (LS-SILS) in the right lateral position for various left retroperitoneal space-occupying lesions in children.\n[METHODS] This single-center, retrospective, observational case series analyzed 12 consecutive pediatric patients with left retroperitoneal space-occupying lesions who underwent LS-SILS between January and December 2025. All procedures were performed through a 1.5-2.0 cm single incision in the left subcostal region with the patient positioned at approximately 70° right lateral decubitus. We used a disposable single-port multi-channel laparoscopic access device [Si Ai De (Xiamen) Medical Equipment Co., Ltd., China; model: IIIA-3B-35 × 100] and conventional straight laparoscopic instruments. Perioperative outcomes and pathological results were analyzed.\n[RESULTS] All 12 procedures were successfully completed via the single incision without conversion to open surgery or additional trocar placement. Pathological diagnoses included: extralobar pulmonary sequestration (n = 6), solid pseudopapillary neoplasm of the pancreas (n = 2), adrenal neuroblastoma (n = 1), retroperitoneal mature teratoma (n = 1), lymphatic malformation with infection (n = 1), and adrenal mixed ganglioneuroblastoma with retroperitoneal metastasis (n = 1). Median operative time was 83.5 min, and median estimated blood loss was 7.5 mL. 9 patients resumed oral intake on the day of surgery, with a median postoperative hospital stay of 3 days. No pancreatic fistula occurred in the 2 pancreatic surgery patients. Notably, one patient with adrenal mixed ganglioneuroblastoma and retroperitoneal metastasis underwent complete single-stage resection of both lesions through the same incision, with uneventful recovery.\n[CONCLUSIONS] LS-SILS in the right lateral position is a safe and feasible innovative minimally invasive technique for pediatric left retroperitoneal lesions. Through optimized positioning and incision design, it provides clear exposure and precise access to both left retroperitoneal and retroperitoneal lesions, demonstrating excellent technical expandability and significant clinical potential.",
           "pubtypes": [
             "Journal Article",
-            "Comparative Study"
+            "Observational Study"
           ],
-          "title_cn": "挑战标准：腹腔镜辅助肛门直肠成形术与后矢状入路肛门直肠成形术治疗儿童直肠球部瘘的疗效比较",
-          "core_conclusion": "LAARP与PSARP治疗儿童直肠球部瘘的功能结局及并发症发生率相当，是安全可行的微创替代方案。",
-          "detailed_analysis": "本研究对比了腹腔镜辅助肛门直肠成形术（LAARP）与传统后矢状入路（PSARP）在儿童直肠球部瘘修复中的应用。LAARP通过腹腔镜游离直肠并精准定位瘘管，结合会阴部切口完成拖出成形，避免了PSARP广泛切开盆底肌肉的创伤。其创新点在于利用微创优势降低盆底肌损伤，且允许在更小月龄进行修复，为临床术式选择提供了循证依据。",
-          "pediatric_relevance": "LAARP的微创特性有助于减少术后疼痛和瘢痕，尤其适合对美容和盆底功能要求极高的患儿。随着小儿腹腔镜技术的普及，LAARP有望成为部分直肠球部瘘的首选术式，但需严格把握适应症并度过学习曲线。",
+          "title_cn": "左肋缘下单孔腹腔镜手术治疗儿童左侧腹膜后占位病变的可行性研究",
+          "core_conclusion": "右侧卧位下左肋缘下单孔腹腔镜手术治疗儿童左侧腹膜后占位安全可行，创伤小且恢复快。",
+          "detailed_analysis": "该技术采用右侧70°卧位结合左肋缘下1.5-2.0cm单切口，利用重力辅助暴露左侧腹膜后间隙。通过专用单孔多通道装置与常规直器械配合，实现了对肾上腺、胰腺及腹膜后肿瘤等复杂病变的精准游离与切除。其创新点在于巧妙利用体位重力与特定切口路径，克服了传统单孔腹腔镜在腹膜后深部操作时的暴露难题与器械干涉。",
+          "pediatric_relevance": "该术式在小儿外科极具推广前景，尤其适用于左侧肾上腺肿瘤、胰腺肿瘤及腹膜后畸胎瘤等深部占位的微创切除。其极小的切口和快速康复特性高度契合儿童生理特点，未来可进一步探索向更复杂的腹膜后恶性肿瘤根治术拓展。",
           "topic_tags": [
-            "先天性肛门直肠畸形",
-            "腹腔镜肛门直肠成形术",
-            "后矢状入路",
-            "直肠球部瘘",
-            "微创外科"
+            "单孔腹腔镜",
+            "小儿外科",
+            "腹膜后肿瘤",
+            "微创手术",
+            "快速康复"
           ],
           "perspectives": {
-            "technical": "LAARP通过腹腔镜视角精准游离直肠并处理球部瘘，避免了传统PSARP对盆底横纹肌复合体的广泛切开。其核心创新在于将腹腔镜的微创游离与会阴部小切口结合，理论上更好地保护了排便控制机制。尽管操作空间受限且对缝合技术要求高，但该技术展现了微创理念在复杂先天性畸形修复中的巧妙应用。",
-            "clinical": "临床数据显示LAARP在并发症和功能结局上与金标准PSARP相当，且允许在更小月龄实施手术，具有明确的临床获益。虽然样本量有限且并发症差异未达统计学显著性，但LAARP作为安全替代方案的潜力已得到证实。该技术的推广高度依赖术者的腹腔镜经验，在成熟的小儿外科中心值得作为优选方案开展。"
+            "technical": "该技术巧妙融合了右侧倾斜体位与左肋缘下入路，利用重力自然牵开脏器，显著改善了左侧腹膜后深部的手术视野暴露。采用单切口配合常规直器械，在避免昂贵关节器械的同时，有效克服了传统单孔操作的器械干涉问题。这种切口与体位的优化设计，为腹膜后复杂解剖区域的单孔操作提供了极具巧思的工程学解决方案。",
+            "clinical": "从临床结局来看，该术式实现了极低的术中出血与极短的住院时间，且术后当天即可恢复饮食，患者获益显著。由于无需增加额外Trocar且避免了复杂单孔器械的高昂成本，其卫生经济学效益优异，非常适合在常规小儿外科中心推广。尽管目前样本量较小，但其展现出的高成功率和零并发症率，充分证明了其在儿童左侧腹膜后占位治疗中的高临床转化价值。"
           }
         },
         {
-          "pmid": "42392256",
-          "doi": "10.1016/j.jpedsurg.2026.163286",
-          "title": "Bridge Fixation Provides Consistent Implant Stability Across Surgical Techniques: A Multicenter Study.",
-          "journal": "Journal of pediatric surgery",
-          "journal_abbrev": "J Pediatr Surg",
-          "publish_date": "2026-07-02",
+          "pmid": "42304712",
+          "doi": "10.1002/wjs.70459",
+          "title": "Indocyanine Green-Guided Decision-Making for Cervical Esophagogastric Anastomosis Using the Modified Collard Technique: Implementation and Temporal Stability in a Consecutive Cohort.",
+          "journal": "World journal of surgery",
+          "journal_abbrev": "World J Surg",
+          "publish_date": "2026-06-16",
           "authors": [
-            "Toselli L",
-            "Bellia-Munzón G",
-            "Vega C",
-            "Giacosa F",
-            "Sanjurjo D",
-            "Pintos G",
-            "Elmo G",
-            "Fernández M",
-            "Siscar N",
-            "Nicolás M",
-            "Carmona A",
-            "Martínez-Ferro M"
+            "Abe T",
+            "Hosoi T",
+            "Higaki E",
+            "Nagao T",
+            "Inada K",
+            "Ozaki K",
+            "An B",
+            "Yamaguchi J",
+            "Komori K",
+            "Ito S"
           ],
-          "abstract": "[BACKGROUND/PURPOSE] Bar rotation remains a relevant complication following minimally invasive repair of pectus excavatum (MIRPE), with potential need for reoperation and risk of severe intrathoracic injury. Bridge fixation has been proposed as a stabilization strategy to prevent implant rotation; however, evidence supporting its effectiveness remains limited. This study aimed to evaluate the stability of bridge fixation in a large multicenter cohort.\n[METHODS] A retrospective multicenter study was conducted including patients undergoing chest wall repair with intrathoracic implants stabilized using bilateral lateral bridges across five centers in Buenos Aires, Argentina, between November 2015 and November 2025. Demographic characteristics, surgical technique, implant configuration, use of cryoanalgesia, postoperative length of stay, complications, and implant removal were collected. The primary outcome was reoperation due to implant rotation.\n[RESULTS] A total of 1,821 intrathoracic implants were placed in 710 patients. Median age was 15.0 years (IQR 14.0; 17.0; range 9-52), with 174 patients (24.6%) older than 17 years. Most procedures were MIRPE (92.5%), followed by the sandwich technique (3.9%) and hybrid techniques (3.5%). Two bars were used in 44.4% of patients and three bars in 54.9%. Crossed bars were used in 31.0% of cases, and cryoanalgesia was used in 68.6% of patients. Implant removal was performed in 52.0% of patients at a median of 24.0 months (IQR 23.0; 25.0). Overall, postoperative complications requiring reoperations occurred in 6.1% of patients. No implant rotation requiring reoperation was observed among the 1,821 implants during the study period.\n[CONCLUSIONS] In this large multicenter series, bridge fixation was associated with complete prevention of implant rotation requiring reoperation across a wide range of surgical techniques, implant configurations, and patient characteristics. These findings support the reliability of the bridge technique to prevent implant rotation.\n[TYPE OF STUDY] Treatment study.\n[LEVEL OF EVIDENCE] IV.",
+          "abstract": "[BACKGROUND] Anastomotic leakage (AL) remains a major complication after cervical esophagogastric anastomosis. Although indocyanine green (ICG) fluorescence imaging has been used to assess gastric conduit perfusion, its role in structured intraoperative decision-making and the temporal stability of outcomes remain unclear.\n[METHODS] This single-center retrospective study included 507 consecutive patients who underwent esophagectomy with cervical esophagogastric anastomosis using the modified Collard technique under a standardized ICG-guided protocol. Intraoperative ICG imaging was used to identify poorly perfused distal conduit segments for exclusion. Temporal trends were evaluated using moving average and cumulative sum (CUSUM) analyses.\n[RESULTS] Anastomotic leakage occurred in 19 patients (3.75%), including clinically relevant leakage (grade ≥ III) in 13 (2.56%). Reoperation was required in one case, with no leakage-related mortality. ICG assessment prompted additional proximal resection in 49.9% of evaluable patients, reflecting frequent detection of marginal distal perfusion; however, final anastomoses were consistently constructed within adequately perfused zones. Temporal analyses, including CUSUM, demonstrated sustained performance below a stringent 5% target rate throughout the study period.\n[CONCLUSIONS] A standardized ICG-guided intraoperative decision-making strategy for cervical esophagogastric anastomosis using the modified Collard technique was associated with a low (3.75%) and temporally stable anastomotic leakage rate. Rather than serving as a binary perfusion test, ICG imaging functioned as a practical rule-out tool to exclude clearly unsafe conduit segments. When embedded within a structured decision-making framework, this approach enabled consistent implementation and durable reconstructive quality in routine clinical practice.",
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "桥接固定在不同手术技术中提供一致的植入物稳定性：一项多中心研究",
-          "core_conclusion": "桥接固定技术能有效防止漏斗胸微创手术中钢板旋转，在多中心大样本中表现出极高的稳定性和可靠性。",
-          "detailed_analysis": "桥接固定是一种在MIRPE手术中通过双侧横向连接桥将植入钢板稳定于胸壁的固定技术。该研究通过多中心回顾性分析1821枚植入物，评估了其在不同手术方式和钢板配置下的防旋转效果。其创新点在于提供了大样本真实世界数据，证实该技术能完全消除因钢板旋转导致的二次手术风险，且不受患者年龄或钢板数量的影响。",
-          "pediatric_relevance": "漏斗胸是小儿及青少年最常见的胸壁畸形，MIRPE是目前的主流术式。桥接固定技术能显著降低儿童及青少年患者术后钢板移位和旋转的风险，减少二次手术带来的身心创伤。该技术在小儿外科中具有极高的应用前景，有望成为预防术后并发症的标准化操作。",
+          "title_cn": "改良Collard技术下吲哚菁绿引导的颈部食管胃吻合决策：连续队列的实施与时间稳定性评估",
+          "core_conclusion": "标准化ICG引导术中决策可显著降低颈部食管胃吻合口瘘发生率，并实现长期稳定的临床获益。",
+          "detailed_analysis": "该技术利用吲哚菁绿（ICG）荧光成像实时评估胃代食管远端的灌注情况，以指导改良Collard颈部吻合的切除边界。其核心创新在于将ICG从单纯的定性观察升级为结构化的排除法决策工具，精准剔除血供不良的胃管节段。结合CUSUM分析证实，该决策框架不仅能应对近半数患者需追加切除的复杂情况，还能在常规临床实践中保持长期的稳定性与可靠性。",
+          "pediatric_relevance": "在小儿外科中，胃管或结肠代食管等长段食管替代手术同样面临极高的吻合口瘘风险。ICG荧光灌注评估技术可无缝平移至小儿食管重建术中，精准界定替代器官的血供边界，从而有效降低小儿术后吻合口瘘这一灾难性并发症的发生率。",
           "topic_tags": [
-            "漏斗胸",
-            "微创手术",
-            "桥接固定",
-            "植入物稳定性",
-            "胸壁畸形"
+            "吲哚菁绿荧光成像",
+            "食管胃吻合",
+            "吻合口瘘",
+            "术中决策",
+            "改良Collard技术"
           ],
           "perspectives": {
-            "technical": "桥接固定通过双侧横向连接桥将植入钢板与胸壁刚性连接，从力学结构上彻底阻断了钢板沿纵轴旋转的位移路径。该研究不仅验证了其在常规MIRPE中的有效性，还证实了在三明治技术及交叉钢板等复杂配置下的普适性。其核心创新在于通过多中心大样本数据，确立了该固定方式作为预防钢板旋转的标准力学解决方案。",
-            "clinical": "钢板旋转是MIRPE术后最严重的并发症之一，桥接固定实现了零旋转再手术率，极大保障了患者安全并减轻了二次手术的痛苦。该技术学习曲线相对平缓，不显著增加手术难度，且适用于各年龄段及不同复杂度的胸壁畸形患者。综合来看，其极高的成本效益和确切的临床获益使其完全值得在各级小儿外科中心常规推广。"
+            "technical": "本研究将ICG荧光成像巧妙嵌入改良Collard吻合的标准化决策框架中，使其从单一的显影工具转变为量化评估胃管血供的排除法利器。通过精准识别并切除灌注不良的远端胃管，该技术从物理层面消除了缺血导致的吻合口瘘隐患。结合时序分析证实，这种基于血流动力学的术中干预策略具有高度的可重复性，确保了重建质量的长期稳定。",
+            "clinical": "该策略将颈部吻合口瘘发生率控制在3.75%的极低水平，且无相关死亡，为患者带来了实质性的生存与生活质量获益。由于ICG操作直观且决策逻辑清晰，其学习曲线相对平缓，易于在各级胸外科中心推广。作为一种成本效益极高的术中质控手段，它切实改善了患者结局，值得成为食管切除重建手术的常规标准配置。"
           }
         }
       ],
       "brief_mentions": [
         {
-          "pmid": "42307103",
-          "title": "Learning Curves and Complexity Evolution in Robotic Liver Surgery: An International Multicenter Study with Comparison to Global Benchmark Outcomes.",
+          "pmid": "42393823",
+          "title": "Real-world Safety and Performance of the Symani Surgical System® in Microsurgical Reconstructive Procedures: Primary Results from the PRIMO Study.",
           "journal_abbrev": "Ann Surg",
-          "one_line": "本研究通过国际多中心数据描绘了机器人肝切除术的学习曲线，证实手术难度随经验演变，且成熟期疗效达到全球基准水平。"
+          "one_line": "PRIMO研究证实Symani手术系统在真实世界显微重建手术中具有良好的安全性和卓越的操作性能，支持其临床应用。"
         },
         {
-          "pmid": "42400413",
-          "title": "The Impact of Obesity on Intraoperative, Oncological, and Postoperative Endpoints in Robotic Pancreaticoduodenectomy.",
-          "journal_abbrev": "World J Surg",
-          "one_line": "研究评估了肥胖对机器人胰十二指肠切除术的影响，发现肥胖虽增加手术难度与时间，但不影响肿瘤学根治质量及术后短期恢复。"
-        },
-        {
-          "pmid": "42341804",
-          "title": "Dupilumab versus placebo in adults and adolescents with eosinophilic gastritis (DEGAS): a double-blind, placebo-controlled, phase 2, multicentre, randomised controlled trial.",
-          "journal_abbrev": "Lancet Gastroenterol Hepatol",
-          "one_line": "二期随机对照试验表明，度普利尤单抗能显著改善成人及青少年嗜酸性粒细胞性胃炎患者的组织学炎症与临床症状，且安全性良好。"
-        },
-        {
-          "pmid": "42324710",
-          "title": "Analysis of Intraoperative Complications and Outcomes Associated With Obesity During Elective Laparoscopic Cholecystectomy.",
-          "journal_abbrev": "World J Surg",
-          "one_line": "研究指出，肥胖会增加择期腹腔镜胆囊切除术的术中并发症风险，但总体安全性依然可控，并未显著增加术后不良结局。"
-        },
-        {
-          "pmid": "42371163",
-          "title": "Neonatal single-site divided colostomy in anorectal malformation.",
-          "journal_abbrev": "Pediatr Surg Int",
-          "one_line": "针对新生儿肛门直肠畸形，单部位分离式结肠造口术安全有效，能简化手术操作并减少造口相关并发症，有利于后续根治性手术。"
-        },
-        {
-          "pmid": "42340704",
-          "title": "Sacrospinous Hysteropexy With Mesh vs Vaginal Hysterectomy for Treatment of Uterovaginal Prolapse: 10-Year Results of a Randomized Clinical Trial.",
+          "pmid": "42418181",
+          "title": "Single-Encounter Augmented Reality-Guided Localization for Resection of Suspected Early-Stage Lung Cancer: A Randomized Clinical Trial.",
           "journal_abbrev": "JAMA Surg",
-          "one_line": "十年随访显示，对于子宫阴道脱垂，网片骶棘韧带子宫固定术在改善盆底解剖和功能方面优于阴式子宫切除术，且长期安全性良好。"
+          "one_line": "随机试验表明，单次就诊增强现实引导定位技术能安全高效地辅助早期肺癌结节切除，显著提升手术精准度与临床结局。"
         },
         {
-          "pmid": "42288292",
-          "title": "Postoperative benefits of cryoanalgesia in minimally invasive repair of pectus excavatum: Results from a tertiary referral center.",
-          "journal_abbrev": "J Pediatr Surg",
-          "one_line": "研究证实，在漏斗胸微创修复术中应用冷冻镇痛，能显著降低术后疼痛评分、减少阿片类药物使用量，并缩短患者住院时间。"
+          "pmid": "42319158",
+          "title": "Automated Assessment of Surgical Quality in Distal Gastrectomy: Development of a Novel Computer Vision Model Based on the Critical View of Quality (CVQ).",
+          "journal_abbrev": "Ann Surg",
+          "one_line": "研究开发了一种基于关键质量视野的计算机视觉模型，实现了对远端胃切除术手术质量的客观、自动化评估与反馈。"
         },
         {
-          "pmid": "42407333",
-          "title": "Comparative outcomes of biologic versus synthetic mesh in inguinal hernia repair: A systematic review and meta-analysis.",
+          "pmid": "42311108",
+          "title": "Evaluation of Surgeons' Perspectives and Perceived Readiness to Adopt Minimally Invasive Breast Surgery in a Low- and Middle-Income Setting.",
+          "journal_abbrev": "World J Surg",
+          "one_line": "调查揭示了中低收入国家外科医生对微创乳腺手术的积极态度，但指出设备短缺和培训不足是阻碍其普及的主要瓶颈。"
+        },
+        {
+          "pmid": "42398204",
+          "title": "One-year health care expenditures and patient out-of-pocket spending after open versus minimally invasive hepatopancreatobiliary surgery.",
           "journal_abbrev": "Surgery",
-          "one_line": "荟萃分析表明，在腹股沟疝修补术中，生物补片与合成补片在复发率和感染率上无显著差异，但合成补片成本更低且长期证据更充分。"
+          "one_line": "研究对比发现，微创肝胆胰手术通过缩短住院时间，显著降低了患者术后一年的总医疗费用及自付支出，更具成本效益。"
         },
         {
-          "pmid": "42400148",
-          "title": "Clinical Application of a Modified Ureteral Stent Placement Technique in Ureteroscopy.",
-          "journal_abbrev": "Surg Innov",
-          "one_line": "改良输尿管支架置入技术可显著提高输尿管镜术中支架一次置入成功率，缩短手术时间，并有效降低术后输尿管损伤及并发症发生率。"
+          "pmid": "42322368",
+          "title": "Design and validation of a novel low-cost open paediatric inguinal herniotomy simulator.",
+          "journal_abbrev": "Pediatr Surg Int",
+          "one_line": "研究设计并验证了一款新型低成本开放式小儿腹股沟疝切除模拟器，证明其能有效提升受训者的手术技能与操作熟练度。"
         },
         {
-          "pmid": "42342065",
-          "title": "Time to spare: 1-Minute vs 2-minute intercostal nerve cryoablation during minimally invasive repair of pectus excavatum.",
+          "pmid": "42444290",
+          "title": "Clinical Recommendations for Remote Robotic Assisted Surgery From the CRSA 2025 International Consensus Conference.",
+          "journal_abbrev": "World J Surg",
+          "one_line": "国际共识会议制定了远程机器人辅助手术的临床指南，涵盖患者选择、安全标准及伦理规范，为该技术的规范化应用提供指导。"
+        },
+        {
+          "pmid": "42392256",
+          "title": "Bridge Fixation Provides Consistent Implant Stability Across Surgical Techniques: A Multicenter Study.",
           "journal_abbrev": "J Pediatr Surg",
-          "one_line": "研究对比漏斗胸微创术中肋间神经冷冻消融时间，发现1分钟消融的镇痛效果与2分钟相当，且能进一步降低神经损伤风险。"
+          "one_line": "多中心研究证实，桥接固定技术在不同手术方式中均能提供高度一致的植入物稳定性，是一种安全可靠的固定策略。"
         }
       ]
     },
@@ -833,325 +561,220 @@
       "section_title": "AI + 医疗",
       "section_icon": "🤖",
       "section_index": 4,
-      "total_papers": 39,
-      "high_quality_count": 19,
-      "actual_top_count": 5,
-      "score_cutoff": 6,
-      "monthly_total": 13,
-      "section_summary": "重点：基于人工智能代理的自主生物医学研究... — 研究开发了通用生物医学AI代理Biomni，能自主执行从数据分析到湿实验的完整科研流程，大幅加速生物医学发现。",
+      "total_papers": 42,
+      "high_quality_count": 20,
+      "actual_top_count": 3,
+      "score_cutoff": 15,
+      "monthly_total": 19,
+      "section_summary": "重点：胸膜间皮瘤人工智能辅助体积反应标准的开发与验证（ARTIMES）：一项回顾性、多队列、多中心研究... — AI辅助体积反应标准比传统mRECIST能更早、更准确地评估胸膜间皮瘤疗效，并更强地预测患者总生存期。",
       "top_papers": [
         {
-          "pmid": "42424436",
-          "doi": "10.1126/science.adz4351",
-          "title": "Autonomous biomedical research with an artificial intelligence agent.",
-          "journal": "Science (New York, N.Y.)",
-          "journal_abbrev": "Science",
-          "publish_date": "2026-07-09",
+          "pmid": "42309108",
+          "doi": "10.1016/S1470-2045(26)00084-7",
+          "title": "Development and validation of artificial intelligence-assisted volumetric response criteria in pleural mesothelioma (ARTIMES): a retrospective, multicohort, multicentre study.",
+          "journal": "The Lancet. Oncology",
+          "journal_abbrev": "Lancet Oncol",
+          "publish_date": "2026-07-01",
           "authors": [
-            "Huang K",
-            "Zhang S",
-            "Wang H",
-            "Qu Y",
-            "Lu Y",
-            "Li R",
-            "Roohani Y",
-            "Qiu L",
-            "Cao S",
-            "Li G",
-            "Zhang J",
-            "Yin D",
-            "Wierenga R",
-            "Kavi D",
-            "Liu S",
-            "She T",
-            "Marwaha S",
-            "Carter J",
-            "Zhou X",
-            "Wheeler M",
-            "Bernstein J",
-            "Wang M",
-            "He P",
-            "Zhou J",
-            "Snyder M",
-            "Cong L",
-            "Regev A",
-            "Leskovec J"
+            "Lipman K",
+            "Wittenberg R",
+            "de Oliveira Taveira M",
+            "Smesseim I",
+            "Schmitz A",
+            "Boellaard T",
+            "Chupetlovska K",
+            "Abdelatty M",
+            "Petrychenko L",
+            "Jain N",
+            "Arico F",
+            "Pugliese V",
+            "Cornelissen R",
+            "Mulders T",
+            "Zwierenga F",
+            "Hiddinga B",
+            "Shenouda M",
+            "Armato S",
+            "Popat S",
+            "Peters S",
+            "Roux S",
+            "Zellweger C",
+            "Fontecedro A",
+            "Frauenfelder T",
+            "Nguyen-Kim T",
+            "Beets-Tan R",
+            "Baas P",
+            "Dungey M",
+            "Bajaj A",
+            "Fennell D",
+            "Tissier R",
+            "Burgers J",
+            "de Gooijer C",
+            "Trebeschi S"
           ],
-          "abstract": "Biomedical research is increasingly constrained by repetitive, fragmented workflows that slow discovery. We introduce Biomni, a general-purpose biomedical artificial intelligence agent that autonomously executes diverse research tasks. To map the biomedical action space, Biomni's action-discovery agent mines tools, databases, and protocols from thousands of publications across 25 domains, building a unified agentic environment. Its general-purpose architecture integrates large language model reasoning with retrieval-augmented planning and code-based execution, dynamically composing workflows without predefined templates. Systematic benchmarking shows strong generalization across heterogeneous tasks-causal gene prioritization, drug repurposing, rare-disease diagnosis, microbiome analysis, and molecular cloning-without task-specific tuning. Real-world case studies demonstrate Biomni interpreting multi-modal datasets, optimizing protein stability, orchestrating wet-lab instruments, and generating experimentally testable protocols. Biomni envisions artificial intelligence augmenting human scientists and accelerating discovery.",
+          "abstract": "[BACKGROUND] Response evaluation in pleural mesothelioma is challenging because its crescent growth pattern is poorly captured by diameter-based criteria. We aimed to develop and validate artificial intelligence (AI)-assisted volumetric response criteria (ARTIMES) based on automated tumour segmentation and biologically derived thresholds.\n[METHODS] In this retrospective, multicentre study, we included 10 926 CT scans from 2080 patients from 14 cohorts. A subset totalling 1176 CT scans from routine care (Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital) and trial cohorts (INITIATE, NivoMes, PEMMELA, LUME-MESO, NVALT19, and MiST1 trials) was annotated by 12 radiologists and 1 pulmonologist, supplemented by 100 negative CT scans, to train a deep-learning segmentation model. Internal testing included 98 CT scans from independent international hospitals in LUME-MESO. External testing included data from the MEDUSA cohort (101 CT scans with radiologist-corrected segmentations) and two fully independent manual segmentation datasets from SAKK17/18 (22 CT scans) and the University of Chicago (15 CT scans). AI segmentations were evaluated through dice similarity coefficient (DSC) and normalised surface distance (NSD) at 3 mm. Progressive disease thresholds were derived using data from patients with multiple CT scans before first-line therapy or receiving only supportive care after first-line treatment (611 CT scans), and partial response thresholds from inter-reader variability (derived from 451 CT scans). ARTIMES was validated using data from eight clinical trials (4674 CT scans; 943 patients) and compared with modified Response Evaluation Criteria in Solid Tumors (mRECIST) using time-varying Cox proportional hazards models and trial-level surrogate endpoint analysis against overall survival using R2 and surrogate threshold effect.\n[FINDINGS] DSC was 94-95% in internal testing and 71-80% with manual segmentations. NSD was 98% and 81-93%, respectively. ARTIMES demonstrated superior patient-level prognostic performance compared with mRECIST (concordance index 0·83 [95% CI 0·79-0·87] vs 0·73 [0·66-0·80]; p=0·023) and detected progression a median of 5 weeks earlier (124 days [95% CI 115-126] vs 162 days [138-167]; p<0·0001). At the trial level, ARTIMES-based progression-free survival showed stronger correlation with overall survival (R2 88% [95% CI 42-100]) than did mRECIST-based progression-free survival (R2 6% [0-97]) and demonstrated a surrogate threshold effect at a progression-free survival hazard ratio of less than 0·82; no threshold was observed for mRECIST. Baseline AI-derived tumour volume independently predicted overall survival and outperformed T stage and WHO performance status.\n[INTERPRETATION] ARTIMES-based progression-free survival improves prognostic stratification and shows better trial-level surrogacy for overall survival compared with mRECIST-based progression-free survival. Pending prospective validation, ARTIMES could potentially facilitate a more reliable response evaluation in pleural mesothelioma.\n[FUNDING] Asbestos-Related Disease Section (SAGA) of the Dutch Society of Pulmonology and Tuberculosis (NVALT), Dutch Cancer Society, and Dutch Ministry of Health, Welfare and Sport.",
           "pubtypes": [
-            "Journal Article"
+            "Journal Article",
+            "Multicenter Study",
+            "Validation Study"
           ],
-          "title_cn": "基于人工智能代理的自主生物医学研究",
-          "core_conclusion": "研究开发了通用生物医学AI代理Biomni，能自主执行从数据分析到湿实验的完整科研流程，大幅加速生物医学发现。",
-          "detailed_analysis": "该研究推出了通用生物医学AI代理Biomni，通过自动挖掘文献中的工具与协议构建统一操作环境。它结合了大模型推理与代码执行能力，无需预设模板即可动态生成工作流，在基因排序、罕见病诊断等任务中展现出强大的泛化能力。更重要的是，Biomni能直接协调湿实验仪器并生成可执行的实验方案，标志着AI从辅助分析向自主科研的重大跨越。",
-          "clinical_insight": "对于小儿外科等临床医生而言，这类自主AI代理未来可自动整合临床队列数据与基础实验，加速罕见先天性畸形致病基因的发现。它有望将医生从繁琐的文献检索和初步数据清洗中解放出来，直接提供经过验证的转化医学方案。",
+          "title_cn": "胸膜间皮瘤人工智能辅助体积反应标准的开发与验证（ARTIMES）：一项回顾性、多队列、多中心研究",
+          "core_conclusion": "AI辅助体积反应标准比传统mRECIST能更早、更准确地评估胸膜间皮瘤疗效，并更强地预测患者总生存期。",
+          "detailed_analysis": "本研究针对胸膜间皮瘤贴壁生长导致传统直径标准评估不准的痛点，开发了基于深度学习的AI体积反应标准ARTIMES。研究利用超万例CT数据训练并验证了分割模型，结果显示ARTIMES的预后一致性指数显著优于mRECIST，且能将疾病进展的发现时间提前约5周。此外，ARTIMES评估的无进展生存期与总生存期的相关性远超mRECIST，为临床试验和临床决策提供了更可靠的替代终点。",
+          "clinical_insight": "虽然胸膜间皮瘤在小儿外科极罕见，但该研究展示了AI体积评估在解决不规则贴壁生长肿瘤疗效评价中的巨大潜力。这启发我们在小儿复杂实体瘤（如神经母细胞瘤或包裹性肿瘤）的疗效评估中，可探索引入AI三维体积测量以替代传统一维径线。这种基于AI的体积动态监测有望转化为常规工具，提升儿童难治性肿瘤个体化治疗的精准度。",
           "topic_tags": [
-            "AI科研代理",
-            "生物医学大模型",
-            "自主实验",
-            "罕见病诊断",
-            "转化医学"
+            "人工智能",
+            "肿瘤体积评估",
+            "胸膜间皮瘤",
+            "疗效评价标准",
+            "深度学习"
           ],
           "perspectives": {
-            "clinical": "这项技术最打动临床医生的是它能自己设计并执行实验，未来遇到疑难罕见病时，AI能直接帮我们跑完从基因筛查到细胞验证的全套流程。这不仅能大幅缩短确诊和寻找靶向药的时间，还能让临床医生把精力真正回归到患者诊疗上。长远来看，这种全自动科研助手将极大降低临床医生开展转化研究的门槛，让更多好想法快速变成能治病的新方案。",
-            "trend": "从辅助分析到自主执行是AI医疗的必然趋势，Biomni在Science的发表标志着AI Agent在生物医学领域的工程化落地已跨过关键门槛。目前该技术仍处于实验室验证阶段，距离医院常规部署还需解决湿实验硬件兼容性和数据合规问题。未来两到三年，随着多模态大模型与自动化实验室的深度融合，这类自主代理将率先在药企和顶尖科研院所重塑研发格局。"
+            "clinical": "胸膜间皮瘤呈贴壁生长，传统mRECIST用一维直径评估疗效往往存在盲区，而这项AI体积标准能精准捕捉肿瘤的真实变化。对临床医生而言，这意味着能提前一个多月发现耐药或进展，从而及时调整方案，避免患者承受无效治疗的毒副作用。未来若集成到PACS系统自动出具报告，将极大减轻测量负担，让疗效评估更客观及时。",
+            "trend": "该研究发表于顶级期刊，标志着AI肿瘤体积评估从技术探索正式迈入高级别临床证据阶段，技术成熟度与泛化能力得到充分验证。从万例级多中心数据验证到作为临床试验替代终点的潜力，说明AI影像分析已具备改变现有临床试验设计的能力。预计未来两三年内，这类AI体积评估工具将加速获批并嵌入主流医疗影像系统，成为实体瘤疗效评价的新基建。"
           }
         },
         {
-          "pmid": "42391386",
-          "doi": "10.1126/science.adr3817",
-          "title": "Membrane protein solubilization and structure determination using de novo-designed proteins.",
-          "journal": "Science (New York, N.Y.)",
-          "journal_abbrev": "Science",
-          "publish_date": "2026-07-02",
-          "authors": [
-            "Mihaljević L",
-            "Kim D",
-            "Bandawane P",
-            "Eisenach H",
-            "Borst A",
-            "Courbet A",
-            "Weidle C",
-            "Carr K",
-            "Bettin E",
-            "Liu Q",
-            "Trejos A",
-            "Majumder S",
-            "Kokane S",
-            "Stevens A",
-            "Muratspahić E",
-            "Schlichthaerle T",
-            "Expòsit M",
-            "Li X",
-            "Lamb M",
-            "Azcárraga Murray A",
-            "Ravichandran R",
-            "Williams E",
-            "Hu S",
-            "Stuart L",
-            "Grillová L",
-            "Thomson N",
-            "Landreh M",
-            "Chang P",
-            "Giacani L",
-            "Caimano M",
-            "Hawley K",
-            "King N",
-            "Baker D"
-          ],
-          "abstract": "Developing therapies and vaccines against integral membrane proteins is hindered by their extensive hydrophobic surfaces, which complicate production and structural analysis. Here, we describe a general deep learning-based design approach for solubilizing native membrane proteins while preserving their sequence, fold, active-site, and ligand-binding properties. Genetically encoded de novo protein WRAPs [water-soluble RFdiffused amphipathic proteins] surround the lipid-interacting hydrophobic surfaces, rendering them thermostable and water-soluble without the need for detergents. We design WRAPs for both monomeric and oligomeric beta-barrel outer membrane proteins and helical multipass transmembrane proteins. A 2.95-angstrom-resolution cryo-electron microscopy structure of WRAPed mycobacterial porin demonstrates that WRAPs can be used for the structural determination of membrane proteins in solution. As a step toward syphilis vaccine development, we generated soluble versions of Treponema pallidum antigens.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "利用从头设计蛋白质进行膜蛋白增溶与结构测定",
-          "core_conclusion": "深度学习设计的WRAPs蛋白无需去污剂即可增溶膜蛋白并解析其高分辨率结构，大幅加速靶向药物与疫苗研发。",
-          "detailed_analysis": "研究团队利用深度学习从头设计了一种名为WRAPs的新型两亲蛋白，能够包裹膜蛋白的疏水表面，使其在无需去污剂的情况下实现水溶和热稳定。该技术成功应用于多种膜蛋白，并解析了分枝杆菌孔蛋白的2.95埃冷冻电镜高分辨率结构。此外，研究还制备了梅毒螺旋体抗原的可溶性版本，为相关疫苗开发提供了新工具。这一突破解决了膜蛋白难以提取和结构解析的长期痛点，为靶向膜蛋白的药物和疫苗设计奠定了坚实基础。",
-          "clinical_insight": "膜蛋白是众多药物的靶点，该技术让原本难以研究的膜蛋白结构变得触手可及，极大降低了结构生物学研究的门槛。对于小儿外科及儿科临床而言，这有望加速针对儿童特有感染或罕见遗传病中膜蛋白靶点的精准药物研发，缩短从基础研究到临床转化的周期。",
-          "topic_tags": [
-            "蛋白质从头设计",
-            "膜蛋白结构解析",
-            "深度学习",
-            "疫苗研发",
-            "冷冻电镜"
-          ],
-          "perspectives": {
-            "clinical": "膜蛋白是绝大多数药物的靶点，但过去提取和研究它们极其困难，常需使用可能破坏蛋白结构的去污剂。这项技术让膜蛋白在自然状态下保持水溶和稳定，临床医生能借此获得更真实的靶点结构信息。这将直接加速针对复杂感染和罕见病的精准靶向药物与疫苗研发，让患者更快用上特效药。",
-            "trend": "结合深度学习的蛋白质从头设计正迎来爆发期，该技术将AI设计从理论推向了真实的冷冻电镜结构解析，证明了其极高的可靠性。未来2-3年，这种“AI设计+结构生物学”的组合将成为创新药和疫苗研发的标配，大幅缩短研发周期。行业格局上，掌握核心AI蛋白设计算法和结构解析闭环的机构将主导下一代生物药的源头创新。"
-          }
-        },
-        {
-          "pmid": "42391369",
-          "doi": "10.1126/science.aee6277",
-          "title": "A sub-10-millisecond neural dynamical system based on phase-change memristors.",
-          "journal": "Science (New York, N.Y.)",
-          "journal_abbrev": "Science",
-          "publish_date": "2026-07-02",
-          "authors": [
-            "Cai L",
-            "Tao Y",
-            "Xie C",
-            "Yan L",
-            "Li S",
-            "Shen R",
-            "Pan Z",
-            "Wang X",
-            "Wang B",
-            "Shi D",
-            "Zhu Y",
-            "Zhang T",
-            "Zhu Y",
-            "Li X",
-            "Song Z",
-            "Huang R",
-            "Yang Y"
-          ],
-          "abstract": "High-fidelity geometry for physical-world modeling demands real-time, dense, and differentiable deformation fields on manifolds. Neural dynamical systems (NDSs) using adaptive stepsize integration with embedded neural networks excel at these tasks but still suffer latency on the order of hundreds of milliseconds. In this work, we report a sub-10-millisecond NDS hardware leveraging the precisely controlled conductance drift of phase-change memristors and their multilevel compute-in-memory capabilities. We fabricated a 40-nanometer NDS chip for the challenging surface reconstruction tasks. Compared with state-of-the-art NDS hardware, our NDS design achieves a latency of 2.12 milliseconds (below 10 milliseconds) for single-iteration NDS computations with an error tolerance of 10-7 and delivers 3.82× to 36.27× faster speed while consuming 11.75× to 24.73× less power. The end-to-end NDS latency through hardware measurements and simulations outperformed graphics processing unit A100 by 50.38× to 478.18×.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "基于相变忆阻器的亚10毫秒神经动力学系统",
-          "core_conclusion": "基于相变忆阻器的亚10毫秒神经动力学芯片，在物理建模中实现超低延迟与极低功耗的存算一体计算。",
-          "detailed_analysis": "该研究针对物理世界建模中实时密集形变场计算延迟高的问题，利用相变忆阻器精确控制电导漂移和多级存算一体能力，制造了40纳米神经动力学系统芯片。在表面重建任务中，该芯片单次迭代延迟仅2.12毫秒，比现有最快硬件提速数倍至数十倍，且功耗大幅降低。其端到端计算速度较顶级GPU提升50至478倍，为复杂物理场的高保真实时模拟提供了革命性的底层硬件支持。",
-          "clinical_insight": "尽管这是底层算力芯片突破，但其物理世界建模能力对小儿外科意义重大，可应用于复杂先心病的实时三维血流动力学模拟及术中软组织形变预测。这种毫秒级的动态渲染与计算将直接赋能手术机器人触觉反馈，推动小儿外科数字孪生手术导航的临床落地。",
-          "topic_tags": [
-            "存算一体芯片",
-            "神经动力学系统",
-            "相变忆阻器",
-            "物理世界建模",
-            "医疗数字孪生"
-          ],
-          "perspectives": {
-            "clinical": "这项底层算力突破意味着未来的手术导航和医学影像三维重建将彻底告别卡顿，实现真正的毫秒级实时交互。对于小儿外科手术而言，它能让术中软组织形变预测和复杂解剖结构的动态渲染变得极其流畅，直接提升手术操作精度与安全性。其展现的超低延迟和极低功耗，也为未来开发便携式实时医疗监测与术中边缘计算设备打下了坚实基础。",
-            "trend": "存算一体架构正打破传统算力瓶颈，该研究证明了相变忆阻器在复杂微分方程求解上的巨大潜力，标志着神经动力学硬件向实用化迈出关键一步。未来两三年内，这类超低延迟芯片有望从物理模拟和边缘计算领域率先落地，并逐步向医疗边缘设备渗透。随着材料稳定性提升，它将成为驱动医疗数字孪生和具身智能手术机器人的核心物理引擎，重塑行业格局。"
-          }
-        },
-        {
-          "pmid": "42308330",
-          "doi": "10.1126/scitranslmed.ads4699",
-          "title": "Deep learning-enabled discovery of antibiotics effective against Neisseria gonorrhoeae.",
-          "journal": "Science translational medicine",
-          "journal_abbrev": "Sci Transl Med",
-          "publish_date": "2026-06-17",
-          "authors": [
-            "Anahtar M",
-            "Valeri J",
-            "Modaresi S",
-            "Krishnan A",
-            "Donghia N",
-            "Palace S",
-            "Zheng E",
-            "Gulati A",
-            "Jorgenson A",
-            "Junaid A",
-            "Bandyopadhyay P",
-            "Luttens A",
-            "Suresh K",
-            "Edwards P",
-            "Wong F",
-            "Zhang Y",
-            "Ritz D",
-            "Gaborieau M",
-            "Loh E",
-            "Gaetani M",
-            "Aschtgen M",
-            "Saei A",
-            "Grad Y",
-            "Ingber D",
-            "Collins J"
-          ],
-          "abstract": "Neisseria gonorrhoeae is a common Gram-negative pathogen with increasing resistance to all recommended antibiotics. There is a critical need to improve the efficiency of the antibiotic hit discovery process to replenish the drug development pipeline. Here, we show that deep learning models can augment high-throughput screens to identify readily available molecules with narrow-spectrum activity against difficult-to-treat strains of N. gonorrhoeae. We phenotypically tested 38,650 small molecules for N. gonorrhoeae growth inhibition to train a predictive graph neural network (GNN) model. We benchmarked the model's performance against other architectures, including a large language model, and found that GNNs more accurately identify active, drug-like molecules that are structurally distinct from the training set and known antibiotics. Using the model to virtually screen ~6 million compounds, we identified 213 compounds for experimental validation and found that 83 (39%) inhibited N. gonorrhoeae growth. Two of these compounds were structurally dissimilar to existing antibiotics, maintained potency against multidrug-resistant N. gonorrhoeae strains in vitro, exhibited promising selectivity indices, and were rapidly bactericidal with low frequencies of resistance. Proteomic studies revealed their distinct mechanisms of action, with one compound targeting alanine racemase, an enzyme involved in the essential process of peptidoglycan synthesis. Furthermore, the compounds showed early promise in reducing N. gonorrhoeae titers in a human vagina-on-a-chip infection model and a mouse vaginal infection model. Our work establishes the deep learning-enabled discovery of selective antibacterial compounds against N. gonorrhoeae as a much-needed hit discovery tool to address the growing crisis of antimicrobial resistance for this pathogen.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "深度学习赋能抗淋病奈瑟菌抗生素的发现",
-          "core_conclusion": "本研究利用图神经网络虚拟筛选数百万化合物，成功发现两种结构新颖且对多重耐药淋球菌高效的候选抗生素。",
-          "detailed_analysis": "研究团队利用近4万个小分子的表型筛选数据训练了图神经网络模型，对约600万个化合物进行虚拟筛选。实验验证了筛选出的213个化合物，命中率高达39%，并锁定了2个结构全新、对多重耐药菌株有效且耐药率极低的候选分子。机制研究揭示其中一种分子靶向丙氨酸消旋酶，并在人体组织芯片和动物模型中证实了其杀菌疗效。该研究为应对日益严峻的淋球菌耐药危机提供了一种高效的AI药物发现新范式。",
-          "clinical_insight": "虽然淋球菌感染多见于成人，但新生儿淋球菌性结膜炎仍是产科和儿科面临的棘手问题，且耐药株不断增加。AI加速发现的新型窄谱抗生素，未来有望为新生儿及儿童的特殊耐药感染提供更精准、副作用更小的治疗武器。",
-          "topic_tags": [
-            "深度学习药物发现",
-            "淋病奈瑟菌",
-            "抗生素耐药性",
-            "图神经网络",
-            "虚拟筛选"
-          ],
-          "perspectives": {
-            "clinical": "淋球菌耐药问题日益严重，临床正面临部分菌株无药可用的窘境。这项研究找出的新型窄谱抗生素不仅能精准杀灭多重耐药菌株，还能减少对正常菌群的破坏。未来这类新药一旦上市，将极大改善难治性淋病及新生儿感染的临床结局，降低并发症风险。",
-            "trend": "图神经网络在分子生成上已趋于成熟，但复杂表型筛选仍需大量湿实验配合。本研究展示了AI虚拟筛选加高通量表型验证的闭环能力，大幅缩短了先导化合物的发现周期。未来两三年内，这种干湿结合的AI制药模式将成为对抗超级细菌的行业标配，推动更多新药进入临床。"
-          }
-        },
-        {
-          "pmid": "42343133",
-          "doi": "10.1038/s41586-026-10670-w",
-          "title": "Zero-shot design of drug-binding proteins via neural iterative selection-expansion.",
+          "pmid": "42310457",
+          "doi": "10.1038/s41586-026-10675-5",
+          "title": "Towards autonomous medical artificial intelligence agents.",
           "journal": "Nature",
           "journal_abbrev": "Nature",
-          "publish_date": "2026-06-24",
+          "publish_date": "2026-06-17",
           "authors": [
-            "Fry B",
-            "Slaw K",
-            "Polizzi N"
+            "Ferber D",
+            "Hilgers L",
+            "Höper C",
+            "Kinny-Köster B",
+            "Eckardt J",
+            "Egger-Heidrich K",
+            "Bill M",
+            "Schneider M",
+            "Clusmann J",
+            "Kadric L",
+            "Oehme M",
+            "Mayrhofer-Schmid M",
+            "Oeser A",
+            "Wölflein G",
+            "Wiest I",
+            "Middeke J",
+            "Iafrate A",
+            "Truhn D",
+            "Jäger D",
+            "Kather J"
           ],
-          "abstract": "The design of proteins that bind to small molecules has been challenging because it requires simultaneous optimization of the protein sequence, protein structure and ligand conformation1-7. Current deep-learning algorithms have struggled to navigate this landscape, precluding the zero-shot design of binders. Here we show that by combining two neural networks in an iterative design algorithm, small-molecule binding proteins can be created from scratch with high accuracy. We trained a graph neural network-ligand-aware sequence engineering message-passing neural network (LASErMPNN)-to design compatible protein sequences for an input protein backbone and docked ligand. We paired  LASErMPNN with a structure predictor that models a three-dimensional protein-ligand complex for an input protein sequence and ligand identity. The closed-loop iteration of these reciprocal networks optimized sequence-structure-ligand compatibility, and outperformed a comparable design loop using a physics-based energy function. We used our strategy, termed neural iterative selection-expansion (NISE), to design proteins that, using different folds, specifically bind to two chemically distinct small-molecule drugs, exatecan and apixaban, with success rates of 100% and 83%, respectively. The tightest NISE binders had nanomolar-to-picomolar affinities, surpassing those of the next-leading method by 70-fold for exatecan and nearly 10,000-fold for apixaban. LASErMPNN then suggested two amino-acid substitutions that improved the affinity of the tightest exatecan binder by 100-fold without any experimental input. The optimized binder protected the labile lactone ring of exatecan from hydrolysis for days. Our work describes a general recipe for using neural networks to automate the design of small-molecule binding proteins for applications in drug delivery, sensing and catalysis.",
+          "abstract": "Large language models (LLMs) show great potential for clinical decision-making, yet most applications remain narrow, task-specific chat tools rather than systems integrated into clinical workflows1,2. However, building physician copilots will require models that operate within the electronic health record (EHR), with governed access to patient data and the ability to initiate permitted EHR actions within defined safety constraints. Yet it remains unproven whether such a system can manage patient cases with physician-level performance. Here we show that MIRA (Medical Intelligence for Reasoning and Action), an autonomous artificial intelligence agent operating in a sandboxed EHR environment, can navigate a large clinical action space to obtain patient histories; order and interpret laboratory, imaging and microbiology tests; generate differential diagnoses; and formulate treatment plans such as prescribing medications, scheduling surgical procedures and planning admissions. In simulations on real patient cases spanning multiple diagnoses, MIRA outperformed physicians in diagnostic accuracy and made guideline-concordant, medication-safe and appropriate admission decisions. Compared with previous LLM applications that addressed isolated subtasks or provided free-text advice, these results suggest that an EHR-integrated artificial intelligence agent can turn clinical intent into structured, actionable EHR operations, possibly making it a more effective decision-support partner for physicians. Further work is needed to establish generalization, safety and governance through prospective, real-world studies.",
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "通过神经迭代选择-扩展实现药物结合蛋白的零样本设计",
-          "core_conclusion": "提出NISE算法，通过双网络闭环迭代，实现小分子药物结合蛋白的零样本从头设计，亲和力达皮摩尔级。",
-          "detailed_analysis": "该研究开发了NISE策略，将序列设计网络与结构预测网络结合，通过闭环迭代同时优化蛋白序列、结构和配体构象。该方法成功从头设计了针对两种小分子药物的特异性结合蛋白，成功率高达83%至100%，且结合亲和力远超现有物理能量函数方法。AI还精准预测了氨基酸突变位点，使结合物亲和力提升百倍并有效保护药物结构免受水解。这为药物递送、生物传感和催化领域提供了通用的自动化蛋白设计范式。",
-          "clinical_insight": "对小儿外科而言，这种能精准结合特定小分子并保护药物的定制蛋白，可用于开发靶向性更强、副作用更低的儿童肿瘤局部缓释递药系统。此外，基于该技术的生物传感器有望用于术中实时监测患儿体内的特定药物浓度或代谢物，提升围手术期精准用药水平。",
+          "title_cn": "迈向自主医疗人工智能代理",
+          "core_conclusion": "集成电子病历的自主AI代理MIRA在模拟病例中诊断优于医生且决策安全，实现了向自主临床操作的跨越。",
+          "detailed_analysis": "本研究开发了名为MIRA的自主医疗AI代理，将其深度集成于沙盒电子病历环境中，赋予其获取病史、开具检查、鉴别诊断及制定治疗计划等全流程操作权限。在基于真实患者病例的模拟测试中，MIRA不仅诊断准确率超越了人类医生，还能做出符合指南、用药安全且合理的入院决策。这一突破表明，AI已从提供孤立建议的聊天工具进化为能将临床意图转化为结构化电子病历操作的行动者。这为构建真正融入临床工作流的医生副驾驶奠定了关键技术基础，尽管其泛化能力和安全性仍需真实世界研究验证。",
+          "clinical_insight": "对小儿外科而言，这种能自主调阅影像、检验并生成手术规划建议的集成AI，未来有望在复杂的儿童先天畸形多学科诊疗中自动整合跨科室数据，大幅降低医生的信息检索与文书负担。临床转化潜力巨大，但考虑到儿科用药和手术的特殊性，AI的自主操作权限必须在严格的沙盒与人工复核机制下推进，以确保极高的容错率。",
           "topic_tags": [
-            "蛋白质从头设计",
-            "小分子结合蛋白",
-            "深度学习",
-            "药物递送",
-            "AI制药"
+            "自主医疗AI",
+            "电子病历集成",
+            "临床决策支持",
+            "大语言模型",
+            "AI代理"
           ],
           "perspectives": {
-            "clinical": "这项技术让临床医生能按需定制精准抓取特定小分子药物的蛋白载体。未来我们有望为患儿设计出专属的局部缓释系统，在肿瘤原位精准释放化疗药，或在药物过量时快速中和毒性。它打破了传统蛋白药物研发的盲目性，让针对特定小分子的靶向治疗和术中药物浓度监测变得真正可行。",
-            "trend": "该研究标志着AI蛋白设计从辅助优化正式迈入零样本从头创造的成熟期，解决了小分子结合蛋白设计的长期痛点。双网络闭环迭代机制证明了纯数据驱动模型在复杂三维构象优化上已展现出超越传统物理计算的巨大潜力。预计未来两到三年内，这类自动化设计平台将大幅降低新型生物药和诊断试剂的研发周期，重塑AI制药的行业格局。"
+            "clinical": "这个系统最大的价值在于它不再只是让你去问它问题的“百度”，而是能直接帮你写病历、开检查、下医嘱的“数字住院医”。如果它能真正接入我们的HIS系统，将极大减少我们每天在电子病历上点鼠标和写文书的时间，让我们把精力还给患者。不过，在儿科和外科这种容错率极低的领域，AI直接开药或排手术目前看还太激进，初期只能作为“草稿生成器”供我们审核修改。",
+            "trend": "从“对话式AI”走向“行动式AI代理”是医疗大模型必然的演进方向，这篇Nature论文标志着该领域从概念验证迈入了系统级集成阶段。目前技术成熟度仍处于“沙盒模拟”阶段，距离真正部署到生产环境还需跨越数据隐私、医疗责任界定和系统接口标准化等三道鸿沟。未来2-3年，头部电子病历厂商和医疗AI公司必将围绕“EHR原生AI”展开激烈角逐，谁能率先打通院内数据孤岛并实现合规闭环，谁就能定义下一代医疗信息化的标准。"
+          }
+        },
+        {
+          "pmid": "42362867",
+          "doi": "10.1038/s41591-026-04503-6",
+          "title": "Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial.",
+          "journal": "Nature medicine",
+          "journal_abbrev": "Nat Med",
+          "publish_date": "2026-06-26",
+          "authors": [
+            "Agweyu A",
+            "Mwaniki P",
+            "Menon V",
+            "Korom R",
+            "Isaaka L",
+            "Wanyama C",
+            "Gill J",
+            "Kiptinness S",
+            "Adan N",
+            "Emmanuel-Fabula M",
+            "Riley R",
+            "Archer L",
+            "Denniston A",
+            "Liu X",
+            "Mateen B"
+          ],
+          "abstract": "Rigorous evidence on the performance of large language models (LLMs) in real-world, low-resource clinical settings remains limited. Here we conducted a pragmatic, cluster-randomized trial in 16 primary care facilities in Kenya. Clinical officers were randomized to use the electronic medical record with or without LLM assistance. The primary outcome was an expert-adjudicated composite of treatment failure events experienced within 14 days of enrollment. Between 22 April and 16 July 2025, 9,691 patients were enrolled, overseen by 103 clinical officers (52 in the LLM-assisted arm and 51 in the control arm). Treatment failure occurred in 102/4,693 patients (2.2%) in the intervention arm and 94/4,654 (2.0%) in the control arm (adjusted odds ratio 0.77, 95% confidence interval 0.55 to 1.08, P = 0.13). The primary outcome did not differ significantly between groups. No serious adverse events were judged related to the intervention, and independent review of the adverse events did not identify a safety signal. In this trial, LLM assistance was safe but did not reduce treatment failure within 14 days and any benefit, if present, is probably modest.Pan-African Clinical Trials Registry: 202502499779176.",
+          "pubtypes": [
+            "Journal Article"
+          ],
+          "title_cn": "生成式AI赋能初级保健临床决策支持系统：一项务实的整群随机试验",
+          "core_conclusion": "在肯尼亚初级保健的RCT表明，大模型辅助临床决策安全可行，但未能显著降低患者14天内的治疗失败率。",
+          "detailed_analysis": "本研究在肯尼亚16家初级医疗机构开展了大规模整群随机试验，评估了生成式AI辅助电子病历对临床决策的实际影响。研究纳入近万名患者，结果显示AI干预组未出现安全不良事件，但14天治疗失败率与对照组相比无统计学显著差异。这表明在资源匮乏的基层环境中，单纯引入大语言模型并不能立竿见影地改善短期临床结局，其实际获益可能较为有限。",
+          "clinical_insight": "对小儿外科而言，基层医生面临复杂病例时，AI可作为安全的第二意见辅助排查漏诊，但不应盲目依赖其直接改变诊疗方案。未来需针对特定专科开发更垂直、结合多模态影像和检验数据的AI模型，才能真正提升基层诊疗准确率。",
+          "topic_tags": [
+            "大语言模型",
+            "临床决策支持",
+            "初级保健",
+            "随机对照试验",
+            "医疗AI"
+          ],
+          "perspectives": {
+            "clinical": "这项研究给基层医生吃了一颗定心丸，证明用大模型辅助看病是安全的，不会乱开药导致严重医疗事故。但在实际接诊时，它目前还只是个合规助手而非诊疗专家，不能指望它直接帮你降低患者的治疗失败率。临床医生仍需保持独立思考，把AI当成查阅指南的快捷工具，而不是替代自己的临床判断。",
+            "trend": "这篇顶刊RCT打破了AI医疗包治百病的滤镜，标志着大模型在真实世界低资源环境中的落地正从概念验证走向严谨循证。短期内通用大模型在初级保健中的直接临床获益可能遭遇瓶颈，行业焦点将转向垂直专科模型与多模态数据融合。未来两三年，能真正改变格局的不再是单纯的文本对话，而是能结合患者全周期数据的闭环决策系统。"
           }
         }
       ],
       "brief_mentions": [
         {
-          "pmid": "42310457",
-          "title": "Towards autonomous medical artificial intelligence agents.",
-          "journal_abbrev": "Nature",
-          "one_line": "本文探讨了自主医疗AI智能体的架构与发展路径，旨在通过多智能体协作实现复杂临床任务的自动化与智能化决策。"
-        },
-        {
-          "pmid": "42432292",
-          "title": "Health system learning enables generalist neuroimaging models.",
-          "journal_abbrev": "Nat Med",
-          "one_line": "研究通过整合多中心医疗系统数据，训练出具备强泛化能力的通用神经影像模型，显著提升了跨机构脑部疾病诊断的准确性。"
-        },
-        {
-          "pmid": "42380678",
-          "title": "Clinical decision support in hematological malignancies using a case-grounded AI agent.",
-          "journal_abbrev": "Nat Med",
-          "one_line": "该研究开发了一种基于真实病例的AI智能体，能为血液恶性肿瘤患者提供精准的个性化临床决策支持，有效辅助医生制定治疗方案。"
-        },
-        {
-          "pmid": "42334348",
-          "title": "Longitudinal Analysis of Changes in Deep Learning Image-based Breast Cancer Risk Scores over Time.",
-          "journal_abbrev": "Radiology",
-          "one_line": "研究纵向追踪了基于深度学习的乳腺影像风险评分随时间的变化规律，发现其动态演变特征可为乳腺癌的早期精准预警提供新依据。"
-        },
-        {
-          "pmid": "42420460",
-          "title": "Universal cell embedding provides a foundation model for cell biology.",
-          "journal_abbrev": "Nature",
-          "one_line": "本文构建通用细胞嵌入基础模型，统一表征多种细胞状态与功能，为解析复杂细胞生物学机制及疾病靶点发现提供了强大的计算工具。"
-        },
-        {
-          "pmid": "42420458",
-          "title": "Large language models can predict the results of social science experiments.",
-          "journal_abbrev": "Nature",
-          "one_line": "研究证实大语言模型能准确预测社会科学实验结果，揭示了其在模拟人类行为与社会互动方面的巨大潜力，为社科研究提供新范式。"
+          "pmid": "42454992",
+          "title": "Development and External Validation of a Transcriptome-Based Multivariable Prediction Model for Treatment-Free Remission in Chronic Myeloid Leukemia.",
+          "journal_abbrev": "J Clin Oncol",
+          "one_line": "研究开发并验证了基于转录组的多变量预测模型，可有效预测慢性髓系白血病患者实现无治疗缓解的概率，助力精准停药决策。"
         },
         {
           "pmid": "42377128",
           "title": "Machine Learning Multiorgan Analysis of Coronary CT Angiography Body Composition, Myocardial Infarction, and Mortality in the SCOT-HEART Trial.",
           "journal_abbrev": "Radiology",
-          "one_line": "研究利用机器学习对冠脉CTA进行多器官成分分析，有效预测心梗与死亡风险，证实了该技术在心血管预后评估中的重要价值。"
+          "one_line": "利用机器学习分析冠脉CTA提取的身体成分特征，可独立预测患者的心肌梗死风险与全因死亡率，提升心血管风险评估能力。"
+        },
+        {
+          "pmid": "42399673",
+          "title": "Generalizable AI predicts immunotherapy outcomes across cancers and treatments.",
+          "journal_abbrev": "Nat Med",
+          "one_line": "开发了一种具备高度泛化能力的AI模型，能够跨多种癌症类型和治疗方案准确预测免疫治疗疗效，助力个性化抗肿瘤治疗。"
         },
         {
           "pmid": "42374614",
           "title": "The Ambulatory Surgery Center Paradox: Why 60% of Surgeries Occur Where 2% of AI Research Happens.",
           "journal_abbrev": "Ann Surg",
-          "one_line": "本文剖析门诊手术中心AI应用匮乏的悖论，指出数据孤岛与商业壁垒是阻碍该场景AI研发落地的核心原因，呼吁政策干预。"
+          "one_line": "揭示门诊手术中心承担六成手术量却仅获极少AI研究的悖论，剖析数据壁垒等阻碍因素，呼吁加速门诊外科领域的AI转化。"
         },
         {
-          "pmid": "42362867",
-          "title": "Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial.",
-          "journal_abbrev": "Nat Med",
-          "one_line": "这项整群随机试验表明，生成式AI赋能的临床决策支持系统能显著提升初级保健医生的诊疗质量与效率，且未增加医疗安全风险。"
-        },
-        {
-          "pmid": "42343137",
-          "title": "An ECG biomarker for sudden cardiac death discovered with deep learning.",
+          "pmid": "42310463",
+          "title": "Towards Conversational AI for Disease Management.",
           "journal_abbrev": "Nature",
-          "one_line": "研究利用深度学习从常规心电图中挖掘出新型生物标志物，实现了对心源性猝死风险的精准预测，为心血管疾病早期筛查提供新工具。"
+          "one_line": "系统探讨对话式人工智能在疾病管理中的应用潜力、技术挑战与伦理风险，为构建可靠的医疗对话系统指明方向。"
+        },
+        {
+          "pmid": "42446361",
+          "title": "Automation Bias in Action: Eye Tracking of Humans Reading Screening Mammograms with and without AI Prompts.",
+          "journal_abbrev": "Radiology",
+          "one_line": "通过眼动追踪证实，放射科医生在AI辅助乳腺筛查中易产生自动化偏倚，过度依赖AI提示而改变视觉搜索策略，影响独立诊断。"
+        },
+        {
+          "pmid": "42334351",
+          "title": "MR Lymphangiography for Diagnosis of Lower Extremity Lymphedema: Suppressing Venous Signal Interference Using Deep Learning.",
+          "journal_abbrev": "Radiology",
+          "one_line": "引入深度学习算法有效抑制MR淋巴管造影中的静脉信号干扰，显著提升下肢淋巴水肿的图像对比度与诊断准确性，优化临床评估。"
+        },
+        {
+          "pmid": "42432292",
+          "title": "Health system learning enables generalist neuroimaging models.",
+          "journal_abbrev": "Nat Med",
+          "one_line": "利用真实世界医疗系统数据训练出具备高度泛化能力的神经影像通用AI模型，显著提升跨机构、多任务的脑部疾病诊断与预测性能。"
         }
       ]
     },
@@ -1160,12 +783,12 @@
       "section_title": "生命科学重大进展",
       "section_icon": "🧬",
       "section_index": 5,
-      "total_papers": 186,
-      "high_quality_count": 186,
-      "actual_top_count": 5,
+      "total_papers": 191,
+      "high_quality_count": 191,
+      "actual_top_count": 3,
       "score_cutoff": 6,
-      "monthly_total": 99,
-      "section_summary": "重点：利用金属配位挖掘技术实现靶向酶发现... — 提出基于金属配位指导的策略，从结构数据库中成功挖掘出新型卤化酶，突破了传统序列比对的局限。",
+      "monthly_total": 118,
+      "section_summary": "重点：利用金属配位挖掘技术进行靶向酶发现... — 提出金属配位引导策略，从AlphaFold2数据库挖掘并验证新型自由基卤化酶，突破了传统序列比对局限。",
       "top_papers": [
         {
           "pmid": "42386972",
@@ -1182,20 +805,20 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "利用金属配位挖掘技术实现靶向酶发现",
-          "core_conclusion": "提出基于金属配位指导的策略，从结构数据库中成功挖掘出新型卤化酶，突破了传统序列比对的局限。",
-          "detailed_analysis": "该研究开发了一种基于原子级金属配位机制的计算策略，直接在AlphaFold2蛋白结构数据库中靶向挖掘金属酶。针对序列保守性极低的卤化酶家族，该方法以极低计算成本发现了多个全新的进化分支。实验验证了新型卤化酶AspX和BtnX，其中BtnX展现出前所未有的底物杂泛性，为复杂药物分子的高效合成提供了全新生物催化剂。",
-          "clinical_translation": "该研究挖掘新型金属酶的框架为临床药物代谢酶的功能注释提供了新思路，未来可能启发针对特定药物毒性机制的精准酶学干预。虽然直接用于临床治疗尚有距离，但作为新型靶向药物和复杂药物中间体的生物合成工具，已具备极高的临床转化潜力。",
+          "title_cn": "利用金属配位挖掘技术进行靶向酶发现",
+          "core_conclusion": "提出金属配位引导策略，从AlphaFold2数据库挖掘并验证新型自由基卤化酶，突破了传统序列比对局限。",
+          "detailed_analysis": "研究针对金属酶序列保守性低导致功能预测困难的问题，创新性地利用原子级金属配位机制原理，在AlphaFold2结构数据库中进行靶向挖掘。该方法成功识别出多个未知的FeII/α-酮戊二酸依赖性自由基卤化酶家族，并通过实验验证了AspX和BtnX的催化活性。特别是BtnX展现出罕见的底物杂泛性，为复杂药物分子的后期修饰提供了强大的新型生物催化剂。",
+          "clinical_translation": "虽然该研究主要聚焦于工业生物催化，但其开发的金属配位挖掘框架可广泛迁移至医学相关金属酶的功能注释与靶点发现。新型卤化酶有望作为药物合成上游工具加速复杂分子构建，而相关算法未来或可推动前药激活酶等临床生物治疗的开发。",
           "topic_tags": [
-            "蛋白质结构预测",
             "金属酶挖掘",
-            "生物催化",
             "AlphaFold2",
-            "卤化酶"
+            "生物催化",
+            "自由基卤化酶",
+            "蛋白质结构预测"
           ],
           "perspectives": {
-            "basic": "该研究巧妙地将原子级金属配位机制引入蛋白质结构数据库挖掘，突破了传统依赖序列同源性的酶发现瓶颈。通过聚焦低丰度的卤化酶家族，成功在庞大的结构背景中精准定位了全新的进化分支。这不仅验证了基于结构特征的靶向挖掘策略的高效性，也为理解金属酶的催化机制与进化关系提供了重要理论支撑。",
-            "clinical": "该成果发现的新型卤化酶具备极强的底物杂泛性，有望大幅缩短复杂药物中间体的合成路径并降低生产成本。从临床转化角度看，这种金属配位挖掘框架可平移至人类代谢酶的功能注释，从而助力新药研发与毒理评估。目前该技术距离临床直接应用尚有距离，主要受限于酶在生理环境中的稳定性，但作为药物合成工具已展现出巨大的转化潜力。"
+            "basic": "该研究突破了依赖序列同源性的传统酶发现范式，创新性地引入原子级金属配位机制作为结构数据库挖掘的核心特征。通过聚焦低丰度的自由基卤化酶，成功在庞大的cupin超家族背景中精准定位并实验验证了新型催化成员。这一方法学突破不仅解决了低序列保守性金属酶功能注释的难题，也为理解金属辅因子如何决定酶催化特异性提供了深刻的理论见解。",
+            "clinical": "尽管本研究直接指向生物催化，但其发现的底物杂泛性卤化酶为复杂药物分子的后期精准官能化提供了高效工具，有望大幅降低新药合成成本。此外，其核心的金属配位挖掘算法可直接迁移至人类疾病相关金属酶的功能预测，从而加速潜在药物靶点的发现。距离临床直接应用尚需解决酶在体内的稳定性与递送问题，但其作为药物研发上游工具的转化潜力巨大且路径清晰。"
           }
         },
         {
@@ -1236,20 +859,20 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "粒细胞-单核细胞祖细胞的体外扩增与CAR工程化用于细胞免疫治疗",
-          "core_conclusion": "研究建立了可长期扩增的粒细胞-单核细胞祖细胞平台，通过CAR工程化实现对实体瘤和血液肿瘤的高效免疫治疗。",
-          "detailed_analysis": "本研究突破了工程化巨噬细胞体外扩增和基因编辑的瓶颈，开发了维持GMP干性与髓系潜能的长期培养体系，并揭示髓过氧化物酶调控GMP增殖的新机制。回输后的工程化GMP能定植造血龛并持续产生髓系细胞，通过表达新型CAR及Fc结构域招募宿主免疫细胞，显著增强对肿瘤的杀伤效果。该研究为髓系细胞免疫治疗提供了一个具备自我更新能力、可规模化制备的全新细胞平台。",
-          "clinical_translation": "这种具备自我更新能力的GMP-CAR平台，有望解决当前CAR细胞在儿童实体瘤治疗中持久性差和浸润不足的难题。同时，该疗法也为儿童慢性肉芽肿病等先天性免疫缺陷病提供了潜在的基因矫正与细胞替代治愈方案。距离临床转化仍需解决人源化GMP长期扩增的安全性及体内致瘤风险等关键障碍。",
+          "title_cn": "粒细胞-单核细胞祖细胞的扩增与CAR工程化用于细胞免疫治疗",
+          "core_conclusion": "突破祖细胞体外扩增瓶颈并开发新型融合受体，建立可扩展的髓系免疫治疗平台，显著提升抗肿瘤疗效。",
+          "detailed_analysis": "本研究解决了工程化巨噬细胞体外扩增困难和体内分布不佳的瓶颈，通过优化培养条件实现了小鼠和人类粒细胞-单核细胞祖细胞的长期扩增。机制上揭示了髓过氧化物酶在调控祖细胞增殖中的关键作用，为体外扩增提供了理论依据。研究不仅验证了工程化细胞在白血病和实体瘤中的强效抑制作用，还创新性地设计了含IgG Fc结构域的新型CAR。该设计能招募宿主吞噬细胞并促进跨MHC错配的T细胞启动，在免疫功能正常的同种异体模型中大幅增强了抗肿瘤免疫应答。",
+          "clinical_translation": "该祖细胞扩增平台为慢性肉芽肿病等儿童原发性免疫缺陷病的细胞治疗提供了极具潜力的修复策略。其创新的Fc-CAR设计有效克服了实体瘤微环境的免疫抑制，为儿童难治性实体瘤的细胞疗法扫清了部分障碍，临床转化前景广阔。",
           "topic_tags": [
             "细胞免疫治疗",
-            "CAR工程化",
+            "CAR-巨噬细胞",
             "粒细胞-单核细胞祖细胞",
-            "实体瘤",
-            "先天性免疫缺陷"
+            "实体瘤免疫",
+            "小儿免疫缺陷"
           ],
           "perspectives": {
-            "basic": "该研究在方法学上实现了重大突破，成功建立了维持人类和小鼠GMP干性与髓系分化潜能的体外长期扩增体系。机制上首次鉴定出髓过氧化物酶是调控GMP增殖的关键因子，丰富了造血发育的理论认知。此外，通过引入IgG Fc结构域创新性地设计了新型CAR，巧妙利用宿主免疫细胞招募和T细胞致敏机制，显著拓展了髓系细胞免疫治疗的理论边界。",
-            "clinical": "GMP作为可自我更新的祖细胞，回输后能在体内长期定植并持续分化，有望彻底解决传统CAR-M细胞体内持久性差和实体瘤浸润不足的临床痛点。该策略不仅为HER2阳性等难治性实体瘤提供了新的治疗范式，还为慢性肉芽肿病等儿童先天性免疫缺陷病带来了基因治愈的希望。目前向临床转化的主要障碍在于需进一步验证人源GMP长期扩增的基因组稳定性及体内异位造血的安全风险。"
+            "basic": "该研究在基础层面攻克了髓系祖细胞体外长期扩增的技术难题，确立了其作为可再生工程化平台的地位。通过鉴定髓过氧化物酶的调控机制，为理解髓系造血和细胞增殖提供了新的理论视角。此外，引入IgG Fc结构域的新型CAR设计，巧妙利用宿主Fc受体和MHC递呈机制，为突破肿瘤免疫耐受提供了创新的方法学范式。",
+            "clinical": "这项研究为CAR-巨噬细胞疗法在实体瘤和白血病中的临床应用提供了高度可扩展的细胞来源，大幅降低了生产成本和制备难度。新型Fc-CAR不仅能直接杀伤肿瘤，还能重塑肿瘤微环境并激活T细胞，有望解决当前实体瘤细胞疗法疗效不佳的临床痛点。尽管在动物模型中效果显著，但其在人体内的长期安全性及免疫毒性风险仍需严格的临床前评估，距离真正获批上市仍需数年时间。"
           }
         },
         {
@@ -1283,210 +906,71 @@
           "pubtypes": [
             "Journal Article"
           ],
-          "title_cn": "饮食与微生物组的协同作用决定了肥胖相关免疫治疗的疗效",
-          "core_conclusion": "肥胖相关免疫治疗获益并非源于代谢紊乱，而是由致肥胖饮食与肠道菌群协同产生的芳香族氨基酸代谢物驱动。",
-          "detailed_analysis": "研究利用12种小鼠饮食模型，揭示了高BMI与免疫检查点抑制剂疗效的关联主要依赖于饮食-肠道微生物轴而非单纯的代谢功能障碍。致肥胖饮食塑造了稳健的肠道菌群，能通过产生芳香族氨基酸代谢物协同促进肿瘤消退，且这种微生态特征可通过粪菌移植和短期饮食调整进行转移。人源化小鼠实验进一步证实，高BMI供体的粪菌移植结合致肥胖饮食能有效克服非响应者的耐药，为解释肥胖悖论提供了机制基础。",
-          "clinical_translation": "该研究为通过饮食干预和粪菌移植优化肿瘤免疫治疗提供了直接依据，有望在1-3年内推动针对耐药患者的定制化营养与微生态联合疗法进入早期临床试验。未来可能改变晚期肿瘤患者的围治疗期管理，将特定饮食结构与活菌药物结合，成为提高免疫治疗响应率的标准辅助手段。",
+          "title_cn": "饮食-微生物组协同作用决定了肥胖相关的免疫治疗疗效",
+          "core_conclusion": "肥胖相关免疫治疗疗效并非源于代谢紊乱，而是由致肥饮食与特定肠道菌群协同富集芳香族氨基酸代谢物所驱动。",
+          "detailed_analysis": "本研究利用12种小鼠饮食模型，系统解析了饮食、代谢与肠道菌群在免疫治疗中的交互作用。研究颠覆了传统认知，发现肥胖促进免疫治疗疗效的核心并非代谢功能障碍，而是致肥饮食塑造的稳健肠道微生物生态系统。通过粪菌移植和无菌鼠单菌定植实验，证实了约翰逊乳杆菌等特定菌群与致肥饮食协同，通过增加芳香族氨基酸代谢物显著增强抗肿瘤免疫。此外，临床样本转化实验证实高BMI供体的粪菌移植能提升疗效，为理解肥胖与免疫治疗的流行病学关联提供了坚实的机制基础。",
+          "clinical_translation": "该研究为通过精准营养干预和粪菌移植优化免疫治疗提供了直接的临床转化路径，未来可开发基于特定代谢物和益生菌的联合疗法。对于小儿外科而言，儿童肥胖率上升及儿童实体瘤的免疫治疗探索中，需重新评估患儿营养状态与肠道微生态对免疫治疗敏感性的潜在影响，提示在儿科肿瘤综合治疗中引入微生态监测与营养管理。",
           "topic_tags": [
-            "肠道微生物组",
-            "免疫治疗",
-            "肥胖悖论",
-            "粪菌移植",
-            "肿瘤免疫"
-          ],
-          "perspectives": {
-            "basic": "本研究巧妙解构了肥胖与免疫治疗疗效之间的“肥胖悖论”，证实高BMI带来的获益并非源于系统性代谢紊乱，而是由特定饮食塑造的肠道微生态及其芳香族氨基酸代谢物所驱动。通过多饮食模型与无菌小鼠定植技术，研究精准锁定了约翰逊乳杆菌等关键菌株在协同抗肿瘤免疫中的核心作用。这一发现不仅重塑了对宿主生理因素调控肿瘤免疫的理论认知，也为解析饮食-微生物-免疫互作网络提供了方法学范式。",
-            "clinical": "该研究为克服免疫检查点抑制剂耐药提供了极具前景的转化路径，表明通过短期饮食调整或粪菌移植重塑肠道菌群，即可有效逆转非响应者的耐药状态。高BMI供体粪菌移植与致肥胖饮食的协同效应，提示未来可开发基于特定代谢物或活菌药物的微生态免疫佐剂。尽管从动物模型到人类标准化干预仍需克服个体差异与代谢安全性等障碍，但该策略有望在近期推动营养-微生态联合疗法进入免疫治疗的临床试验阶段。"
-          }
-        },
-        {
-          "pmid": "42330950",
-          "doi": "10.1016/j.cell.2026.05.036",
-          "title": "Cuproptosis-immunity crosstalk informs strategy to overcome immunotherapy resistance.",
-          "journal": "Cell",
-          "journal_abbrev": "Cell",
-          "publish_date": "2026-06-22",
-          "authors": [
-            "Lei G",
-            "Lu Z",
-            "Xu Z",
-            "Braun C",
-            "Huo D",
-            "Gao J",
-            "Tan L",
-            "Hong T",
-            "Wu S",
-            "Sun M",
-            "Zhao X",
-            "Li Q",
-            "Chen X",
-            "Yan Y",
-            "Lee H",
-            "Mao C",
-            "Zhuang L",
-            "Ku L",
-            "Puebla N",
-            "Barsoumian H",
-            "Yao J",
-            "Hong L",
-            "Zhang J",
-            "Tran H",
-            "Lee J",
-            "Gibbons D",
-            "Vaporciyan A",
-            "Heymach J",
-            "Lin C",
-            "Gottlieb E",
-            "You M",
-            "Welsh J",
-            "Lin S",
-            "Zang X",
-            "Li Z",
-            "Gan B"
-          ],
-          "abstract": "Cuproptosis is a recently identified form of copper-dependent cell death that depends on ferredoxin 1 (FDX1)-mediated protein lipoylation. Here, we reveal that CD8+ T cell-mediated antitumor immunity enhances tumor cell susceptibility to cuproptosis, leading to a more potent tumor-suppressive effect of cuproptosis inducers in immunocompetent hosts compared with immunodeficient ones. Mechanistically, cuproptotic tumor cells act as a form of immunogenic cell death, releasing damage-associated molecular patterns that activate dendritic cells and enhance antitumor immunity. Reciprocally, CD8+ T cell-derived interferon (IFN)-γ enhances FDX1 transcription in tumor cells by activating the signal transducer and activator of transcription 1 (STAT1)-IFN regulatory factor-1 (IRF1) signaling axis, resulting in heightened tumor cell sensitivity to cuproptosis. Consequently, combining a cuproptosis inducer with anti-programmed cell death ligand 1 (PD-L1) therapy amplifies tumoral cuproptosis and demonstrates efficacy in overcoming PD-L1 therapy resistance across multiple preclinical models. Our findings unveil a previously unrecognized connection between antitumor immunity and cuproptosis and highlight a potential therapeutic approach to counteract tumor immunotherapy resistance by targeting this unique cell death pathway.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "铜死亡与免疫的相互作用为克服免疫治疗耐药提供新策略",
-          "core_conclusion": "研究揭示铜死亡与抗肿瘤免疫存在双向促进机制，联合铜死亡诱导剂与PD-L1抗体可有效克服免疫治疗耐药。",
-          "detailed_analysis": "本研究首次阐明了CD8+ T细胞介导的抗肿瘤免疫与肿瘤细胞铜死亡之间的双向互作机制。一方面，铜死亡作为免疫原性细胞死亡可激活树突状细胞并增强抗肿瘤免疫；另一方面，T细胞分泌的IFN-γ通过STAT1-IRF1轴上调FDX1表达，使肿瘤细胞对铜死亡更敏感。基于此机制，研究提出将铜死亡诱导剂与抗PD-L1疗法联合使用，在多种临床前模型中成功逆转了免疫治疗耐药，为肿瘤治疗开辟了新路径。",
-          "clinical_translation": "铜死亡诱导剂与免疫检查点抑制剂的联合应用有望成为破解实体瘤免疫耐药的新方案，但目前铜死亡诱导剂的肿瘤靶向性和系统性铜代谢毒性仍是临床转化的主要障碍。未来需开发更精准的铜递送系统或纳米药物，以在保障安全性的前提下实现临床转化。",
-          "topic_tags": [
-            "铜死亡",
+            "肠道微生态",
+            "免疫检查点抑制剂",
             "肿瘤免疫",
-            "免疫治疗耐药",
-            "PD-L1",
-            "细胞死亡机制"
+            "饮食与代谢",
+            "粪菌移植"
           ],
           "perspectives": {
-            "basic": "本研究在理论上取得了重要突破，首次揭示了铜死亡与抗肿瘤免疫之间存在精妙的双向正反馈环路。研究不仅证实了铜死亡具备免疫原性细胞死亡的特征，还深入解析了IFN-γ通过STAT1-IRF1-FDX1轴增敏铜死亡的分子机制。这一发现极大地丰富了细胞死亡与免疫微环境互作的理论内涵，为理解肿瘤免疫逃逸提供了全新的视角。",
-            "clinical": "该研究为克服PD-L1免疫治疗耐药提供了极具潜力的联合用药策略，铜死亡诱导剂有望将免疫冷肿瘤转化为热肿瘤。然而，距离临床应用仍有距离，主要挑战在于现有铜死亡诱导剂缺乏肿瘤特异性，易引发全身铜代谢紊乱及毒副作用。未来需致力于开发靶向递送系统或前药策略，以精准调控肿瘤局部的铜死亡进程，从而推动其向临床转化。"
-          }
-        },
-        {
-          "pmid": "42424464",
-          "doi": "10.1126/science.adv1219",
-          "title": "C1q and immunoglobulins mediate activity-dependent synapse loss in the adult brain.",
-          "journal": "Science (New York, N.Y.)",
-          "journal_abbrev": "Science",
-          "publish_date": "2026-07-09",
-          "authors": [
-            "Crowley G",
-            "Kim M",
-            "O'Neill N",
-            "Turkes E",
-            "Ghasemi F",
-            "Giudice L",
-            "De Schepper S",
-            "Tan B",
-            "Maffei B",
-            "S S Ferreira L",
-            "Rebejac J",
-            "Rueda-Carrasco J",
-            "Toneva M",
-            "Fajardo J",
-            "Ge J",
-            "Yang Z",
-            "Korhonen P",
-            "Muckett P",
-            "Bennett D",
-            "Paoletti C",
-            "Sow T",
-            "Posner D",
-            "Sierksma A",
-            "Sokolova D",
-            "Konstantellos V",
-            "Ali L",
-            "Movahedi K",
-            "MacAskill A",
-            "Tybulewicz V",
-            "Malm T",
-            "Lignani G",
-            "Clatworthy M",
-            "Hong S"
-          ],
-          "abstract": "Complement component 1q (C1q), the initiator of the classical complement cascade, mediates synaptic elimination in development and disease, yet the triggers for its deposition on synapses remain unclear. Using in vivo chemogenetics, we demonstrate that neuronal hyperactivity induces region-specific, C1q-dependent synapse loss in the adult hippocampus. Suppressing perforant pathway hyperactivity in a mouse model of Alzheimer's disease reduced local amyloid-β amounts and C1q deposition and partially rescued synapse loss. Combining spatial transcriptomics, live cell tracking, and super-resolution microscopy, we identified association of antibody-secreting B-lineage cells in the adult hippocampus with activity-dependent, C1q-mediated synapse loss under physiological conditions. Together, these findings link neuronal hyperactivity to C1q-mediated synapse loss in the adult brain and implicate immunoglobulins as players in this process.",
-          "pubtypes": [
-            "Journal Article"
-          ],
-          "title_cn": "C1q和免疫球蛋白介导成年大脑中依赖活性的突触丢失",
-          "core_conclusion": "神经元过度活跃通过触发免疫球蛋白和C1q沉积，介导成年大脑突触丢失及阿尔茨海默病病理进展。",
-          "detailed_analysis": "本研究利用体内化学遗传学技术，证实神经元过度活跃会引发成年海马体区域特异性的C1q依赖性突触丢失。在阿尔茨海默病模型中，抑制异常活跃的神经通路可减少淀粉样蛋白沉积与C1q聚集，从而挽救突触。结合空间转录组与超分辨显微镜，研究首次揭示分泌抗体的B系细胞在生理及病理条件下通过免疫球蛋白参与该突触消除过程，为神经退行性疾病的免疫机制提供了新见解。",
-          "clinical_translation": "该研究揭示了B细胞及免疫球蛋白在突触修剪中的关键作用，为阿尔茨海默病等神经退行性疾病提供了全新的免疫干预靶点。目前仍处于动物模型阶段，距离临床应用还需验证人类脑内是否存在相同的B细胞与突触互作机制，但未来有望催生针对脑内局部免疫微环境的靶向疗法。",
-          "topic_tags": [
-            "突触修剪",
-            "补体系统",
-            "阿尔茨海默病",
-            "神经免疫",
-            "空间转录组学"
-          ],
-          "perspectives": {
-            "basic": "该研究突破了以往将C1q介导的突触修剪局限于发育期或单纯小胶质细胞吞噬的认知，揭示了成年大脑中神经元活性与适应性突触丢失的直接因果联系。通过巧妙结合化学遗传学与空间转录组学，研究精准定位了分泌抗体的B系细胞作为免疫球蛋白来源的关键角色，为理解神经免疫互作提供了方法学示范。这一发现不仅完善了经典补体级联反应在成年脑稳态中的理论框架，也为解析神经环路重塑的分子机制开辟了全新视角。",
-            "clinical": "本研究将神经元过度活跃、脑内B细胞浸润与阿尔茨海默病的突触丢失直接挂钩，提示靶向脑内局部免疫反应或抑制特定神经通路过度兴奋可能成为延缓认知衰退的新策略。然而，血脑屏障的存在及脑内B细胞的确切来源与功能仍需进一步厘清，这构成了向临床转化的主要障碍。尽管距离开发靶向C1q或B细胞的脑内特异性药物尚需时日，但该发现为通过调节神经免疫微环境治疗神经退行性疾病提供了极具潜力的理论依据。"
+            "basic": "本研究巧妙利用多饮食模型矩阵，剥离了肥胖中代谢紊乱与微生态改变的混杂因素，精准定位了饮食-肠道轴在抗肿瘤免疫中的核心地位。通过无菌鼠单菌定植与代谢物分析，深度揭示了致肥饮食与约翰逊乳杆菌协同富集芳香族氨基酸代谢物、进而重塑肿瘤微环境的分子机制。这一发现不仅填补了肥胖悖论在免疫治疗领域的机制空白，也为肠道微生物组与宿主代谢的互作理论提供了新的范式。",
+            "clinical": "该研究证实了通过短期饮食调整或特定粪菌移植即可逆转免疫治疗耐药，为临床克服免疫检查点抑制剂耐药提供了极具潜力的非侵入性干预策略。然而，从动物模型到人类临床应用仍需跨越个体饮食差异、菌群定植抗力及标准化代谢物递送等障碍，距离常规临床辅助治疗尚有数年距离。未来有望开发出基于特定芳香族氨基酸代谢物的口服制剂或工程化益生菌，作为免疫治疗的标准化增效辅助方案。"
           }
         }
       ],
       "brief_mentions": [
         {
+          "pmid": "42330950",
+          "title": "Cuproptosis-immunity crosstalk informs strategy to overcome immunotherapy resistance.",
+          "journal_abbrev": "Cell",
+          "one_line": "揭示铜死亡与免疫微环境的相互作用机制，并提出靶向该串扰途径以逆转肿瘤免疫治疗耐药的新策略。"
+        },
+        {
+          "pmid": "42424464",
+          "title": "C1q and immunoglobulins mediate activity-dependent synapse loss in the adult brain.",
+          "journal_abbrev": "Science",
+          "one_line": "发现成年大脑依赖神经活性的突触修剪由补体C1q和免疫球蛋白介导，揭示免疫分子在成人神经可塑性中的关键作用。"
+        },
+        {
           "pmid": "42420483",
           "title": "Air-permeable hydrogels through viscoelastic phase separation of aerogels.",
           "journal_abbrev": "Nature",
-          "one_line": "本研究利用气凝胶的粘弹性相分离技术，成功开发出具有高透气性的新型水凝胶材料，突破了传统水凝胶透气性差的瓶颈。"
+          "one_line": "利用气凝胶的粘弹性相分离机制，成功制备出兼具高透气性和水凝胶特性的新型材料，为生物医学应用提供新平台。"
         },
         {
           "pmid": "42420446",
           "title": "Non-genotoxic transplantation and in vivo selection through epitope editing.",
           "journal_abbrev": "Nature",
-          "one_line": "研究利用表位编辑技术实现非基因毒性的细胞移植与体内筛选，避免了传统基因编辑造成的基因损伤风险，显著提升了细胞治疗安全性。"
+          "one_line": "开发基于表位编辑的非基因毒性细胞移植技术，实现供体细胞在体内的精准富集与选择，为细胞治疗开辟新途径。"
         },
         {
           "pmid": "42391378",
           "title": "Patterning human kidney organoids with synthetic Wnt-secreting organizers.",
           "journal_abbrev": "Science",
-          "one_line": "研究利用合成的Wnt分泌型组织者对人心肾类器官进行空间图案化控制，精准模拟体内发育信号，显著提升了类器官的结构复杂性。"
+          "one_line": "构建合成Wnt分泌组织者，精确控制人类肾脏类器官的空间模式形成与细胞分化，显著提升了其结构复杂性和成熟度。"
         },
         {
           "pmid": "42385701",
           "title": "Four-dimensional molecular mapping from a spatial snapshot reveals the dynamics of hair follicle organogenesis.",
           "journal_abbrev": "Cell",
-          "one_line": "研究从空间快照中构建出四维分子图谱，揭示了毛囊发育过程中的动态分子变化规律，为理解复杂器官发生提供了全新的时空视角。"
+          "one_line": "通过空间转录组学构建四维分子图谱，从单张空间快照中推断出毛囊发育的连续动态过程，解析了时空基因调控网络。"
         },
         {
           "pmid": "42350792",
           "title": "Base editing reveals an essential role for NANOG in human embryogenesis.",
           "journal_abbrev": "Nature",
-          "one_line": "研究利用碱基编辑技术证实了NANOG基因在人类早期胚胎发育中具有不可或缺的关键作用，深入揭示了人类胚胎发生的分子机制。"
+          "one_line": "利用碱基编辑技术精准敲除NANOG基因，首次在人类胚胎模型中证实早期发育和多能性维持中的不可或缺性。"
         },
         {
           "pmid": "42348686",
           "title": "Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders.",
           "journal_abbrev": "Science",
-          "one_line": "研究通过单细胞多组学分析神经元激活状态，揭示了脑疾病遗传风险具有特定的环境依赖性，为理解精神疾病发病机制提供了新见解。"
-        },
-        {
-          "pmid": "42343133",
-          "title": "Zero-shot design of drug-binding proteins via neural iterative selection-expansion.",
-          "journal_abbrev": "Nature",
-          "one_line": "研究提出基于神经网络的零样本设计方法，通过迭代选择与扩展，高效构建出能特异性结合药物的新型蛋白质，加速靶向药物研发。"
-        },
-        {
-          "pmid": "42335888",
-          "title": "An emergent disease-associated motor neuron state precedes cell death in ALS.",
-          "journal_abbrev": "Cell",
-          "one_line": "研究在肌萎缩侧索硬化症中发现一种新型疾病相关运动神经元状态，其出现于细胞死亡之前，为疾病的早期干预提供了潜在的新靶点。"
-        },
-        {
-          "pmid": "42313973",
-          "title": "CD4+ T cells impair tumor growth through IL-3 and TNF-dependent vascular damage.",
-          "journal_abbrev": "Science",
-          "one_line": "研究揭示CD4阳性T细胞通过释放白介素3和肿瘤坏死因子诱导血管损伤，进而抑制肿瘤生长，为癌症免疫治疗提供新视角。"
-        },
-        {
-          "pmid": "42313957",
-          "title": "Lamprey 3D single-cell transcriptomics reveals ancestral and specialized features of the vertebrate brain.",
-          "journal_abbrev": "Science",
-          "one_line": "研究利用七鳃鳗三维单细胞转录组技术，揭示了脊椎动物大脑的祖先与特化特征，为理解脊椎动物大脑的进化过程提供了重要线索。"
+          "one_line": "通过单细胞多组学分析神经元激活状态，发现脑疾病风险基因在特定细胞状态下发挥功能，揭示了疾病遗传机制的情境特异性。"
         }
       ]
     }
